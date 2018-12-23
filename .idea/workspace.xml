@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4934ec51-a06d-4b4d-8580-c172fc203d95" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/yt_bouns/src/components/line.vue" beforeDir="false" afterPath="$USER_HOME$/yt_bouns/src/components/line.vue" afterDir="false" />
+      <change beforePath="$USER_HOME$/yt_bouns/src/pages/homes.vue" beforeDir="false" afterPath="$USER_HOME$/yt_bouns/src/pages/homes.vue" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="identifier.sqlite" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="yt131@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="yt131@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="yt131@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="yt131: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/order/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2324">
+              <caret line="94" column="44" selection-start-line="94" selection-start-column="44" selection-end-line="94" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="abstract_models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/order/abstract_models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11340">
+              <caret line="423" column="6" selection-start-line="423" selection-start-column="6" selection-end-line="423" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/auth131/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="23" column="63" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="serializers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/customer/serializers.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/rest/apps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/python2.7/site-packages/yt131/customer/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="567" column="44" selection-start-line="567" selection-start-column="44" selection-end-line="567" selection-end-column="44" />
+              <folding>
+                <element signature="e#15#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/customer/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="1761" selection-start-line="1761" selection-end-line="1761" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/customer/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1092">
+              <caret line="45" column="56" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>browser</find>
+      <find>base_queryset</find>
+      <find>onsale</find>
+      <find>PARENT</find>
+      <find>visible_fields</find>
+      <find>id_for_label</find>
+      <find>\w</find>
+      <find>creating</find>
+      <find>'.'</find>
+      <find>def get(</find>
+      <find>related_name</find>
+      <find>attribute_values</find>
+      <find>$.a</find>
+      <find>$.aj</find>
+      <find>loc_town</find>
+      <find>add_st</find>
+      <find>store_row</find>
+      <find>add_s</find>
+      <find>$</find>
+      <find>$.g</find>
+      <find>get_or_create</find>
+      <find>self.insta</find>
+      <find>OSCAR_IM</find>
+      <find>Im</find>
+      <find>model.ImageF</find>
+      <find>c</find>
+      <find>def post(</find>
+      <find>$.get(</find>
+      <find>.attributes</find>
+      <find>inlin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/apps/locale/zh_Hans/LC_MESSAGES</dir>
+      <dir>$PROJECT_DIR$/lib/python2.7/site-packages</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/apps/templates/oscar/dashboard</dir>
+      <dir>$PROJECT_DIR$/</dir>
+      <dir>$PROJECT_DIR$/apps</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/apps" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/apps/promotions/conf.py" />
+        <option value="$PROJECT_DIR$/lib/python2.7/site-packages/oscar/templates/oscar/dashboard/catalogue/category_list.html" />
+        <option value="$PROJECT_DIR$/lib/python2.7/site-packages/oscar/templates/oscar/dashboard/promotions/promotion_list.html" />
+        <option value="$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/dashboard/views.py" />
+        <option value="$PROJECT_DIR$/lib/python2.7/site-packages/oscar/app.py" />
+        <option value="$PROJECT_DIR$/apps/promotions/app.py" />
+        <option value="$PROJECT_DIR$/apps/promotions/context_processors.py" />
+        <option value="$PROJECT_DIR$/apps/promotions/models.py" />
+        <option value="$PROJECT_DIR$/apps/promotions/admin.py" />
+        <option value="$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/promotions/admin.py" />
+        <option value="$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/promotions/models.py" />
+        <option value="$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/dashboard/promotions/app.py" />
+        <option value="$PROJECT_DIR$/apps/dashboard/promotions/app.py" />
+        <option value="$PROJECT_DIR$/apps/rest/apps.py" />
+        <option value="$PROJECT_DIR$/lib/python2.7/site-packages/yt131/catalogue/models.py" />
+        <option value="$PROJECT_DIR$/lib/python2.7/site-packages/yt131/promotions/serializers.py" />
+        <option value="$PROJECT_DIR$/lib/python2.7/site-packages/yt131/promotions/views.py" />
+        <option value="$PROJECT_DIR$/apps/dashboard/catalogue/app.py" />
+        <option value="$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/dashboard/promotions/views.py" />
+        <option value="$PROJECT_DIR$/apps/promotions/views.py" />
+        <option value="$PROJECT_DIR$/apps/promotions/serializers.py" />
+        <option value="$PROJECT_DIR$/lib/python2.7/site-packages/yt131/catalogue/views.py" />
+        <option value="$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/dashboard/catalogue/views.py" />
+        <option value="$PROJECT_DIR$/apps/catalogue/app.py" />
+        <option value="$PROJECT_DIR$/apps/catalogue/abstract_models.py" />
+        <option value="$PROJECT_DIR$/apps/templates/oscar/dashboard/catalogue/product_class_form.html" />
+        <option value="$PROJECT_DIR$/apps/templates/oscar/dashboard/catalogue/product_list.html" />
+        <option value="$PROJECT_DIR$/apps/catalogue/views.py" />
+        <option value="$PROJECT_DIR$/apps/templates/oscar/dashboard/catalogue/product_update.html" />
+        <option value="$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/dashboard/catalogue/forms.py" />
+        <option value="$PROJECT_DIR$/apps/dashboard/catalogue/views.py" />
+        <option value="$PROJECT_DIR$/apps/templates/oscar/dashboard/catalogue/preproduct_list.html" />
+        <option value="$PROJECT_DIR$/apps/templates/oscar/dashboard/catalogue/vipproduct_list.html" />
+        <option value="$PROJECT_DIR$/apps/templates/oscar/dashboard/catalogue/bindingproduct_list.html" />
+        <option value="$PROJECT_DIR$/apps/templates/oscar/dashboard/catalogue/bindingproduct_update.html" />
+        <option value="$PROJECT_DIR$/apps/templates/oscar/dashboard/catalogue/preproduct_update.html" />
+        <option value="$PROJECT_DIR$/apps/templates/oscar/dashboard/catalogue/vipproduct_update.html" />
+        <option value="$PROJECT_DIR$/apps/dashboard/catalogue/forms.py" />
+        <option value="$PROJECT_DIR$/apps/dashboard/catalogue/formsets.py" />
+        <option value="$PROJECT_DIR$/apps/dashboard/users/tables.py" />
+        <option value="$PROJECT_DIR$/apps/templates/oscar/dashboard/promotions/promotion_list.html" />
+        <option value="$PROJECT_DIR$/apps/locale/zh_Hans/LC_MESSAGES/django.po" />
+        <option value="$PROJECT_DIR$/apps/dashboard/promotions/views.py" />
+        <option value="$PROJECT_DIR$/dump_for_mysql.py" />
+        <option value="$PROJECT_DIR$/apps/order/models.py" />
+        <option value="$PROJECT_DIR$/apps/catalogue/models.py" />
+        <option value="$PROJECT_DIR$/apps/settings.py" />
+        <option value="$PROJECT_DIR$/apps/shshell.py" />
+        <option value="$PROJECT_DIR$/apps/customer/models.py" />
+        <option value="$PROJECT_DIR$/apps/customer/views.py" />
+        <option value="$PROJECT_DIR$/apps/auth131/models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="789" />
+    <option name="y" value="57" />
+    <option name="width" value="1046" />
+    <option name="height" value="994" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yt131" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yt131" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yt131" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yt131" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yt131" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yt131" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="auth131" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yt131" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yt131" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yt131" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yt131" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yt131" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yt131" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yt131" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yt131" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python2.7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yt131" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yt131" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python2.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yt131" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yt131" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python2.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="oscar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yt131" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yt131" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python2.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="oscar" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yt131" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yt131" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python2.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="oscar" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="catalogue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yt131" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yt131" type="462c0819:PsiDirectoryNode" />
+              <item name="var" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yt131" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yt131" type="462c0819:PsiDirectoryNode" />
+              <item name="var" type="462c0819:PsiDirectoryNode" />
+              <item name="whoosh_index" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="singleproduct.h&#9;FILE&#9;file:///home/anyi/workspace/yt131/lib/python2.7/site-packages/oscar/templates/oscar/promotions/singleproduct.html&#10;recom&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;Sqlite (Xerial)" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dump_for_mysql.py" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps/templates/oscar/dashboard/catalogue" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps/templates/oscar/dashboard/catalogue" />
+      <recent name="$PROJECT_DIR$/apps/promotions" />
+      <recent name="$PROJECT_DIR$/apps/templates/oscar/dashboard" />
+      <recent name="$PROJECT_DIR$/apps/templates/oscar/dashboard/promotion" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="yt131" type="Python.DjangoServer" factoryName="Django server">
+      <module name="yt131" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4934ec51-a06d-4b4d-8580-c172fc203d95" name="Default" comment="" />
+      <created>1533876036898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533876036898</updated>
+      <workItem from="1534840163516" duration="816000" />
+      <workItem from="1535004463960" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="854000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.5592865" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32984293" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32948583" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20064034" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.2139808" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32977587" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32948583" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948583" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.18196371" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32984293" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948583" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.5592865" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32977587" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32948583" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32977587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/customer/views.py</url>
+          <line>179</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/promotions/models.py</url>
+          <line>317</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/promotions/models.py</url>
+          <line>330</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/promotions/models.py</url>
+          <line>332</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/promotions/models.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/dashboard/catalogue/views.py</url>
+          <line>171</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/dashboard/catalogue/app.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/dashboard/catalogue/views.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/dashboard/catalogue/views.py</url>
+          <line>231</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/dashboard/catalogue/views.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/dashboard/catalogue/views.py</url>
+          <line>655</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/catalogue/abstract_models.py</url>
+          <line>684</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="55" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dump_for_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="58" column="48" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1aff3e58-a002-407c-bdec-e101fd14bba0/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/address_country">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/balance_balancetransactionrecord">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/basket_basket">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/catalogue_storeproductsdetail">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/catalogue_category">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/catalogue_productattributevalue">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/catalogue_productcategory">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/catalogue_productclass_options">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/promotions_automaticproductlist">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/promotions_image">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/catalogue_productattributevaluedefault_value_multi_option">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/catalogue_productattributevaluedefault">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/catalogue_productattributevalue_value_multi_option">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/user_profile_userprofile">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/partner_partneraddress">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/offer_range_excluded_products">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/partner_partner_users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/partner_stockalert">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/analytics_usersearch">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/all_data.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state>
+          <caret column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python2.7/site-packages/django/db/models/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="1029" column="8" selection-start-line="1029" selection-start-column="8" selection-end-line="1029" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python2.7/site-packages/django/db/models/fields/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="218" column="6" selection-start-line="218" selection-start-column="6" selection-end-line="218" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python2.7/site-packages/yt131/db/models/fields.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python2.7/site-packages/django/contrib/contenttypes/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="159" column="8" selection-start-line="159" selection-start-column="8" selection-end-line="159" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/order/migrations/0002_auto_20180927_1326.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/order/migrations/0003_remove_order_wx_pay_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/order/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10218" />
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/order_line">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/address_administrativearea">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/auth131_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/thumbnail_kvstore">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/catalogue_productclass">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/order_order">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/catalogue/abstract_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="296" column="62" selection-start-line="296" selection-start-column="62" selection-end-line="296" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/2117239178/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="4134" column="8" selection-start-line="4134" selection-start-column="8" selection-end-line="4134" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/django_session">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1aff3e58-a002-407c-bdec-e101fd14bba0/schema/yt131/table/catalogue_product">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="3307" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/shshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2156">
+          <caret line="81" column="11" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
+          <folding>
+            <element signature="e#23#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/catalogue/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bonus/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/order/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2324">
+          <caret line="94" column="44" selection-start-line="94" selection-start-column="44" selection-end-line="94" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python2.7/site-packages/oscar/apps/order/abstract_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11340">
+          <caret line="423" column="6" selection-start-line="423" selection-start-column="6" selection-end-line="423" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/customer/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="45" column="56" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/customer/serializers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/customer/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="1761" selection-start-line="1761" selection-end-line="1761" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/rest/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python2.7/site-packages/yt131/customer/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="567" column="44" selection-start-line="567" selection-start-column="44" selection-end-line="567" selection-end-column="44" />
+          <folding>
+            <element signature="e#15#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/auth131/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="23" column="63" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

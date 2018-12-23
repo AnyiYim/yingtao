@@ -1,0 +1,20 @@
+
+
+.select-scan-box{
+    margin-bottom: 20px;
+}
+
+.select-scan-box .select-table-time{
+    /* min-width:120px; */
+}
+.select-bonus-time{
+    display: inline-block;
+}
+.export-import{
+    display: inline-block;
+
+}
+.export-import botton{
+    height: 34px;
+    line-height: 34px;
+}

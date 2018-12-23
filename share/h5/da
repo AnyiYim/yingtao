@@ -1,0 +1,2106 @@
+[33mcommit b189d0d08ea9e0772bcffd954b13318b2d8987e7[m
+Merge: c6aba63 6fa37e6
+Author: anyi <759502117@qq.com>
+Date:   Fri Aug 31 16:05:11 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit c6aba63dd86de3e867eaffeb2936d21398e52664[m
+Merge: 62b0ab3 035938e
+Author: anyi <759502117@qq.com>
+Date:   Fri Aug 31 16:04:59 2018 +0800
+
+    商品修改
+
+[33mcommit 6fa37e613f07d21e6c3623fb48e88290f2bdb570[m
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 31 03:50:41 2018 -0400
+
+    更新
+
+[33mcommit 767e6070a7f6f2f4f26b177adede0d79cf24b13e[m
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 31 01:28:17 2018 -0400
+
+    更新
+
+[33mcommit 758851b0bb2c6ff00092df7ff9549dd467ff82ab[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Aug 30 16:01:21 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit eb4650365a7716c728888b3d4e9f8d4c5eeab5ce[m
+Merge: 80a81c0 7c0be43
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Aug 30 16:00:31 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 80a81c0284d946135c7ff75e45892d9243f4bece[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Aug 30 15:55:36 2018 +0800
+
+    修改用户登录状态判断，将ucenter/index/index.js移到app.js中，程序载入开始就访问
+
+[33mcommit 7c0be43e42a4082bde8c4c60dcee83c5d0e2cb6a[m
+Merge: 9c52761 7be5275
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Aug 30 15:53:10 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 9c52761821b0844e25aecc88b212d528870c63f6[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Aug 30 15:52:57 2018 +0800
+
+    修改用户登录状态判断，将ucenter/index/index.js移到app.js中，程序载入开始就访问
+
+[33mcommit 7be5275c654f3e44dab76238bc74dbc1e580f50e[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Aug 30 15:49:44 2018 +0800
+
+    修改用户登录状态判断，将ucenter/index/index.js移到app.js中，程序载入开始就访问
+
+[33mcommit 62b0ab348796310d5637d846a9bb223c80b5bb64[m
+Author: anyi <759502117@qq.com>
+Date:   Thu Aug 30 09:41:56 2018 +0800
+
+    anyis code
+
+[33mcommit 035938eaa902603fbafbed6b9eded5998917f721[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 29 21:23:29 2018 -0400
+
+    更新
+
+[33mcommit 3ab46d4d8d5867bcfcfade93594fc50d6f376053[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 29 21:16:44 2018 -0400
+
+    更新
+
+[33mcommit 59610f76880d40eb3958c9f69648cc7ca7619c8d[m
+Merge: 46b58b0 4045192
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Sat Aug 25 09:37:39 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 46b58b0e3c5316e272762117f0268c7ec34b9d7b[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Sat Aug 25 09:37:33 2018 +0800
+
+    add 'readme.txt'
+
+[33mcommit 4045192f8b18b722d866b0195c8d6ace24a5ac56[m
+Merge: 739c642 d0dbfa0
+Author: zzz <zzz@zzz.com>
+Date:   Sat Aug 18 14:51:47 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 739c642e9b09fa9917140aae0c911aa3dd8d1d97[m
+Author: zzz <zzz@zzz.com>
+Date:   Sat Aug 18 14:51:10 2018 +0800
+
+    更新
+
+[33mcommit d0dbfa0f5b15a0c775c5ce5cfd3f0cd5f883834e[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Sat Aug 18 14:42:27 2018 +0800
+
+    update
+
+[33mcommit 42659edc48c5ac5ad2a3fc79fd73d8cca18dc102[m
+Merge: 9fb87bd d2564fc
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Aug 17 18:35:28 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 9fb87bdc45e804e05028d78cff3c7f2d0fb9ab6f[m
+Merge: 754af2c 827a4d0
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Aug 17 18:35:23 2018 +0800
+
+    update
+
+[33mcommit d2564fc8028c341608c7e62b9807db311457be95[m
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 17 18:34:22 2018 +0800
+
+    gengixn
+
+[33mcommit 754af2c3b2a1ccd6d7584da532740d26d254b8dd[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Aug 17 18:23:12 2018 +0800
+
+    update
+
+[33mcommit 827a4d0f804e9e8fc709303a817ec6aa9d8d8f32[m
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 17 18:21:29 2018 +0800
+
+    gengixn
+
+[33mcommit 6b777aa300b338c268bd9c77ec95b683be4f29ee[m
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 17 18:08:17 2018 +0800
+
+    邀请众创伙伴页面时间添加
+
+[33mcommit 426cab4decd507fe2a2665c7373488fb43753eb5[m
+Merge: 201c0c8 40ae4ba
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Aug 17 16:07:07 2018 +0800
+
+    update
+
+[33mcommit 201c0c82039febb3e065747507765bf4c70706a5[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Aug 17 16:06:01 2018 +0800
+
+    update
+
+[33mcommit 40ae4ba56e576ccbd47294bf81eb2324889907dd[m
+Merge: ee6e0e7 b4ab471
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 17 16:02:39 2018 +0800
+
+    更新
+
+[33mcommit ee6e0e74883f008a6ac09b77f11be2f156cb976a[m
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 17 15:59:41 2018 +0800
+
+    login微调
+
+[33mcommit b4ab4713948527f49c2b624ff4b2f32c8394578c[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Aug 16 21:39:15 2018 +0800
+
+    modify
+
+[33mcommit d6b929cc89687c0070c12fefd2f8a2222921cd16[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Thu Aug 16 17:35:57 2018 +0800
+
+    update
+
+[33mcommit dbbc33f06202d6215e4c47b0e189e846eb3a8a11[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Thu Aug 16 10:14:11 2018 +0800
+
+    update
+
+[33mcommit 57fa52cc288a63ff4e3e4eec51748a772bd43e71[m
+Merge: b3b0cd3 26df202
+Author: zzz <zzz@zzz.com>
+Date:   Thu Aug 16 09:50:39 2018 +0800
+
+    更新
+
+[33mcommit 26df20217d027f123ee63a43e9a0ecd27556f118[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Thu Aug 16 09:43:25 2018 +0800
+
+    update
+
+[33mcommit b3b0cd3a4bb4ea83e9216f6bc4f86e5640b1d383[m
+Author: zzz <zzz@zzz.com>
+Date:   Thu Aug 16 09:40:47 2018 +0800
+
+    更新
+
+[33mcommit c220011f3af40b316937d3053e0a0cfdd0fd4296[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 15 16:20:30 2018 +0800
+
+    gengxin
+
+[33mcommit aaba3a18bbb3cbff991b2f77f6b36d128e19309c[m
+Merge: b6e5aba 8150f92
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Aug 15 16:17:31 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit b6e5abab9cb8d76201758d134acedf1855a64285[m
+Merge: 40db7af b06f25d
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Aug 15 16:17:26 2018 +0800
+
+    upadate
+
+[33mcommit 8150f9213ccb97ff8d3383ff7bd88e2553f75c24[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 15 16:16:58 2018 +0800
+
+    gengxin
+
+[33mcommit 40db7af07e3399158d1a2fb1c180a5c5b612fa3f[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Aug 15 16:02:39 2018 +0800
+
+    update
+
+[33mcommit b06f25df20fe172d5024903da24df2038e6db971[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 15 16:01:57 2018 +0800
+
+     gengxin
+
+[33mcommit 09826fe4357c8c6a41015b3af5cf312cf895ea3b[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 15 15:08:20 2018 +0800
+
+     gengxin
+
+[33mcommit f8034b6c4265569e3eb8334dfbb464f6db20c79b[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 15 14:08:19 2018 +0800
+
+    更新
+
+[33mcommit c00bb1c4bd8956ca70dfc637b247349bddadbe7b[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 15 14:02:05 2018 +0800
+
+    gentian
+
+[33mcommit a6e59c9c4e7341a633e9d3553b1823c43eb0bbfe[m
+Merge: a4e58a8 3bc3095
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Aug 15 13:51:57 2018 +0800
+
+    update
+
+[33mcommit a4e58a8337b4a885ff9d1970d3a4be3765a0cb1c[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Aug 15 13:50:26 2018 +0800
+
+    update
+
+[33mcommit 3bc3095f9a7374fe148f1d9eefd819a563bf54b4[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 15 13:49:45 2018 +0800
+
+    更新
+
+[33mcommit 0f15deacc3dc040fc99502e1b5a9640929c28d41[m
+Merge: 7a28438 f7487fb
+Author: zzz <zzz@zzz.com>
+Date:   Tue Aug 14 18:12:09 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 7a28438ee27e0ec462c8160b413c0d5bcae0baae[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Aug 14 18:12:01 2018 +0800
+
+    更新
+
+[33mcommit f7487fb1783146ce24417a430c2799617c1ba275[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Aug 14 17:53:03 2018 +0800
+
+    update
+
+[33mcommit c1216eafd9eb23f7b95c2a0317c4e9f7b4426f3d[m
+Merge: fb9e2b7 d5ac428
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Aug 14 14:12:13 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit fb9e2b7cbe738a642437cbe0c88059cbb5381b5f[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Aug 14 14:12:00 2018 +0800
+
+    update
+
+[33mcommit d5ac4282fcd23d8362564aceea3913c981cdc97f[m
+Merge: 3543c82 0c8e10a
+Author: zzz <zzz@zzz.com>
+Date:   Tue Aug 14 13:29:04 2018 +0800
+
+    更新
+
+[33mcommit 3543c82ab19ef3af5a1bd98cbef4c561e258ac84[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Aug 14 13:26:05 2018 +0800
+
+    更新
+
+[33mcommit 0c8e10a13a4ed5897b42c8ec65a015affc44ed9f[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Aug 14 13:13:27 2018 +0800
+
+    update
+
+[33mcommit a8f2c7aa3cbb5404d15ec5d05ec569b8ea2e0742[m
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 10 15:08:20 2018 +0800
+
+    更新
+
+[33mcommit 8f4d437dc042f3bb2f78afa83afb9a91f1ade4b0[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Aug 10 14:36:58 2018 +0800
+
+    update
+
+[33mcommit 84073ab36403f67e8e22f5661d48a6f4bb4489e8[m
+Merge: ebc64d4 a26cfe0
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Aug 10 14:35:03 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit a26cfe02b83ea2c01e50fbc57a31f81997eceb71[m
+Merge: 0bbfd96 5d9d801
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 10 14:34:41 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 0bbfd963ea40581d48b444dce3deea4213f46c03[m
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 10 14:34:20 2018 +0800
+
+    更新
+
+[33mcommit ebc64d4ad0684c91cabcfc7dd8044a67eb9df8a2[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Aug 10 14:28:47 2018 +0800
+
+    update
+
+[33mcommit 5d9d8011034a495bc72d7e0d7b4f0ece04f8839b[m
+Merge: 3c16e9b 67bdff8
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Aug 9 10:52:34 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 3c16e9b4ffc0714f35c9a494c0bd82b11fa3e813[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Aug 9 10:52:24 2018 +0800
+
+    modify duration
+
+[33mcommit 00ac65bbd61ee14d710638a4eb72021f9bb96140[m
+Merge: ae316e0 67bdff8
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Aug 8 18:05:36 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit ae316e08e1bd67efb8130bdea0f52fa295f90193[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Aug 8 18:05:29 2018 +0800
+
+    update
+
+[33mcommit 67bdff82ed8bb244a0bddcd34a18d83317b3117f[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 8 17:55:43 2018 +0800
+
+    更新
+
+[33mcommit 6e2b298dd8e006015396c75fd82f21cf1a3fe404[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 8 17:08:27 2018 +0800
+
+    更新
+
+[33mcommit 504b209a1d600c4fb7c58712da3bd53b5f8001f8[m
+Merge: f631dc2 eb5eb7b
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 8 16:43:45 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit f631dc235259c42603a7d43a7d94b938752e3495[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 8 16:43:26 2018 +0800
+
+    更新
+
+[33mcommit eb5eb7ba2f11f0b3aa7e8470c0daa7dc3a3da0c1[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Wed Aug 8 16:11:13 2018 +0800
+
+    modify
+
+[33mcommit 826c945883c2a46eb4397494dbd6e9074e283bee[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 8 14:34:52 2018 +0800
+
+    更新
+
+[33mcommit 87d5cb3d452de17f112e99f56d55808e68ed6f74[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Wed Aug 8 14:21:42 2018 +0800
+
+    modify
+
+[33mcommit 4e5681c185733538598fac42987b009b5c57db36[m
+Merge: a43e64f 3aa9998
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 8 14:12:32 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit a43e64f9e5aebb9886543f86b7827c5031f34608[m
+Merge: 7206aba 8a8751c
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 8 14:12:20 2018 +0800
+
+    更新
+
+[33mcommit 3aa99980ad7425ceda29fdff8e82c1fcae6ba1ad[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Wed Aug 8 14:09:53 2018 +0800
+
+    modify
+
+[33mcommit 7206aba90eb05c9d2855f225cc6807cb77cd37db[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 8 14:09:42 2018 +0800
+
+    更新
+
+[33mcommit 8a8751c23c3d2c5a19fb6b64d4407c71197f8c02[m
+Merge: 4a6bd04 c4bc4a4
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Wed Aug 8 09:39:56 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 4a6bd04d1b901c61f4218bfa5e5584d87050e375[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Wed Aug 8 09:39:45 2018 +0800
+
+    modify
+
+[33mcommit c4bc4a4eb8da606527e9e664a7e54b8e4fd77462[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Aug 6 10:39:03 2018 +0800
+
+    更新订单详情字数太多显示bug
+
+[33mcommit 603917090894716ae4647309a94722ec054f0ea2[m
+Merge: 80a9453 de89ca5
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 3 17:24:13 2018 +0800
+
+    更新
+
+[33mcommit 80a9453a8898237f8bbda7313fc9a48a70bf0e06[m
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 3 17:23:34 2018 +0800
+
+    更新
+
+[33mcommit de89ca5fd7a094f97d7c4bab26480772c6b903ae[m
+Merge: c347bf1 ab7b555
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Aug 3 16:22:26 2018 +0800
+
+    update
+
+[33mcommit c347bf11b0d49ea291e35b7b4dd5d8ea36078d29[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Aug 3 15:18:14 2018 +0800
+
+    update
+
+[33mcommit ab7b555584df22fd410eebd1066d9a407a7d90b4[m
+Merge: affb2ec 9f9d8b5
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 3 15:17:20 2018 +0800
+
+    modify
+
+[33mcommit affb2ec1f3a162e87d9f6d6e4ddce12dc7c998a4[m
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 3 15:15:56 2018 +0800
+
+    modify
+
+[33mcommit 7df855f14c77c109884e9c4c28929ba37ab92091[m
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 3 15:13:48 2018 +0800
+
+    modify wallet
+
+[33mcommit 9f9d8b5200e21d9c6e7472275b0fdb2761938b59[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Aug 3 14:43:25 2018 +0800
+
+    update
+
+[33mcommit ec7d29270e9af5fb20670d3bcd7d3fe931976fac[m
+Merge: 6b80085 4814f96
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Aug 3 14:42:43 2018 +0800
+
+    update
+
+[33mcommit 6b8008507f30c4ffef5a8dd12d6e611c948e8306[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Aug 3 14:40:00 2018 +0800
+
+    update
+
+[33mcommit 4814f963cffbb6ff523b72497341dda762e1979e[m
+Author: zzz <zzz@zzz.com>
+Date:   Fri Aug 3 09:16:13 2018 +0800
+
+    更新
+
+[33mcommit 0da3d6946a659c3107ecf724401923cf348e003e[m
+Author: zzz <zzz@zzz.com>
+Date:   Thu Aug 2 11:00:37 2018 +0800
+
+    更新
+
+[33mcommit 9bb180afbcce8c00baaee0d034a67fa439176729[m
+Author: zzz <zzz@zzz.com>
+Date:   Thu Aug 2 10:47:29 2018 +0800
+
+    更新
+
+[33mcommit 29f314b9288df384cffb3c95103d143d4eff1be8[m
+Merge: 75fb861 259c14b
+Author: zzz <zzz@zzz.com>
+Date:   Thu Aug 2 10:46:01 2018 +0800
+
+    更新
+
+[33mcommit 75fb8616a8b0c8bf98abf867a6faea4080314fad[m
+Author: zzz <zzz@zzz.com>
+Date:   Thu Aug 2 10:37:04 2018 +0800
+
+    更新
+
+[33mcommit 259c14b5e23cf075b9e6ceedab9f3e5a1e954d7b[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Thu Aug 2 10:28:35 2018 +0800
+
+    微信订单主动查询
+
+[33mcommit 614d84b9f2d7d2b8892fbb61fc9141a7d1804162[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Aug 1 10:32:29 2018 +0800
+
+    update
+
+[33mcommit 9d8ebbbfecad4e35b9f23cce0e6c138f6fe86bc3[m
+Merge: 38b2452 5f2b230
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Aug 1 10:22:40 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 5f2b2301c14b5510b62babadf440abd3e47bedac[m
+Merge: b10604b eb218a3
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 1 10:21:39 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit b10604b5c3fd42fd580509908aa63687bd264fe9[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Aug 1 10:21:26 2018 +0800
+
+    更新地址输入bug
+
+[33mcommit eb218a391ff7c40ea32b410050d3e0aecdef0deb[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Wed Aug 1 10:19:56 2018 +0800
+
+    modify
+
+[33mcommit c52cddd02bf8b90ce077ed9dc86fcc42ef6ec983[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Tue Jul 31 15:04:24 2018 +0800
+
+    modify
+
+[33mcommit 4cf1372da27dedf20f2c0fec8a09e593b3df84ce[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 31 15:01:13 2018 +0800
+
+    更新
+
+[33mcommit 38b24526d47ede211450f0014105c927247c8d82[m
+Merge: 5fb52e9 183f834
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 31 13:53:20 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 183f83419834f4ddc704b8bbbb13b2c2334011ee[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 31 13:51:30 2018 +0800
+
+    活动
+
+[33mcommit 38e415f8aed07b15ff744634189aefdad0becc33[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 31 13:49:00 2018 +0800
+
+    活动
+
+[33mcommit 5fb52e92743462fbb400babed08c1e1fcf2bed84[m
+Merge: b65178a 1cced89
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 31 13:33:19 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit b65178a2b82fb97a1fc447bb87b861c6ce885575[m
+Merge: b22d508 ef7688e
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 31 13:33:12 2018 +0800
+
+    update
+
+[33mcommit 1cced89257ca2c52ab19e7a5fcf42d16493d2f04[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 31 13:09:25 2018 +0800
+
+    活动
+
+[33mcommit b22d508f448343939e37e0d37545d14cb018a0c3[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 31 12:25:47 2018 +0800
+
+    update
+
+[33mcommit ef7688e3cda4f0c197e7d854156077694859c043[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 31 12:24:21 2018 +0800
+
+    活动
+
+[33mcommit 7e6228adc4e817b0f47549d149c995840f59a3c7[m
+Merge: cdce127 e873509
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 31 09:56:09 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit cdce127db68ef37a53310a2cebd036b28b6b4db2[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 31 09:55:41 2018 +0800
+
+    更新
+
+[33mcommit e873509e3e082cc8b984f40d4ff7dc3588973af8[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 31 09:46:28 2018 +0800
+
+    update
+
+[33mcommit 5cafecbcc84965a3ad147532f20537f345a09b31[m
+Merge: 62e968d 3b56bb5
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 31 09:45:51 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 3b56bb57a28aeefe45c7485f2fa17259e87c55e4[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 31 09:44:46 2018 +0800
+
+     gengxin
+
+[33mcommit 62e968dc01666d45cf5eb0cceee41eb49904a4a9[m
+Merge: 3fcbafa ebee31c
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 30 21:21:05 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 3fcbafa6a2e3f197acc3cd3fe772560d038b04c8[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 30 21:20:56 2018 +0800
+
+    update
+
+[33mcommit ebee31cb1432a52232a9f50dfc7cf29f2ae53dfc[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 30 20:50:27 2018 +0800
+
+    更新
+
+[33mcommit cc9d2132485e29eb77a58b4a37a7933ecb75754c[m
+Merge: ce6fcfa 3bada43
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 30 19:59:09 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 3bada4342c75fee1922619cbd3f0e3528ec6b9d5[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 30 19:58:36 2018 +0800
+
+    更新
+
+[33mcommit ce6fcfabce5c2307f123343d40a2a65680b0c1cd[m
+Merge: e21597e 0046e25
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 30 19:47:44 2018 +0800
+
+    upadate
+
+[33mcommit e21597eec40212b22b411c0b070b61bc86b3eb76[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 30 19:43:25 2018 +0800
+
+    update
+
+[33mcommit 0046e257a779728c43110fcb2c4331d4e693ddb2[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 30 19:42:51 2018 +0800
+
+    更新
+
+[33mcommit c7af774d2c85f0f25c62bbee0adc2f5bf304bad8[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 30 19:39:05 2018 +0800
+
+    更新
+
+[33mcommit d20db82d9d97ec0f1474b888e8cb3780252a7c7e[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 30 17:45:02 2018 +0800
+
+    更新
+
+[33mcommit bd9791092ba764ef558e941ea711abc944d8a4db[m
+Merge: 6566a93 34b84ff
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 30 17:16:12 2018 +0800
+
+    更新
+
+[33mcommit 6566a9307102e606eca5486118c095ea697dedbb[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 30 17:15:07 2018 +0800
+
+    更新
+
+[33mcommit 34b84ffab59f9825a72facb0da8990a723429405[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 30 16:58:34 2018 +0800
+
+    update
+
+[33mcommit a9a0dd10a03471915e21caa485665974b1a39a1a[m
+Merge: 86277a9 8a460fe
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 30 16:16:45 2018 +0800
+
+    update
+
+[33mcommit 86277a9ced0406c2f84533fccfd42a1e13da0f6f[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 30 16:14:14 2018 +0800
+
+    update
+
+[33mcommit 8a460fe046af4916942a38632030758b40fb6d9d[m
+Merge: 84106e9 20b504a
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 30 16:13:36 2018 +0800
+
+    更新
+
+[33mcommit 84106e91f5792235ab7a451c3cba10046758d3cb[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 30 16:01:54 2018 +0800
+
+    更新
+
+[33mcommit 20b504aaadac93fd8ccbfae9d682c414466f8d24[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Fri Jul 27 17:30:38 2018 +0800
+
+    modify
+
+[33mcommit 02450270cb02e948957462fec4417e9aefa9257a[m
+Merge: fc016d4 300cea9
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Fri Jul 27 17:30:04 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit fc016d400e097f67dc948915f7bc14145255e09c[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Fri Jul 27 17:29:41 2018 +0800
+
+    modify
+
+[33mcommit 300cea993792deb006314ad604d576009c5a76d6[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jul 27 17:17:13 2018 +0800
+
+    update
+
+[33mcommit bc6e37b4e5ec0d60b339bddaa58b58a05fbb4487[m
+Merge: cb22987 d0c0ae4
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jul 27 17:12:37 2018 +0800
+
+    upadtae
+
+[33mcommit cb22987280784614442886fa515b1b2ff03aa991[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jul 27 17:10:48 2018 +0800
+
+    update
+
+[33mcommit d0c0ae4f9cd3c3611698996505d9c746c06d7515[m
+Author: zzz <zzz@zzz.com>
+Date:   Fri Jul 27 17:06:02 2018 +0800
+
+    modify
+
+[33mcommit 91d963f9707a6f8da6768201c02d56255b4e3850[m
+Author: zzz <zzz@zzz.com>
+Date:   Thu Jul 26 09:14:54 2018 +0800
+
+    gengxin
+
+[33mcommit 7a56383c1070d89799ef74fcfa8296d75932e6c2[m
+Author: zzz <zzz@zzz.com>
+Date:   Thu Jul 26 09:12:04 2018 +0800
+
+    gengxin
+
+[33mcommit 1a53cd6663e57588db9248f053b9821271acbc3f[m
+Merge: a44af5c 550a058
+Author: zzz <zzz@zzz.com>
+Date:   Wed Jul 25 10:31:58 2018 +0800
+
+    更新去除自动聚焦
+
+[33mcommit a44af5c180c544ee4739eb9b4c9b3eecccfb3c3f[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Jul 25 10:29:43 2018 +0800
+
+    更新去除自动聚焦
+
+[33mcommit 550a058c6c2c298583560dd73b274296e6ae1546[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Tue Jul 24 21:27:36 2018 +0800
+
+    modify
+
+[33mcommit 23ab5f04a3a6426bf1fe5355da12ac811c59b03e[m
+Merge: 7c591a2 fcb08f1
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 24 21:13:41 2018 +0800
+
+    更新
+
+[33mcommit 7c591a27af43acb0505f37f4516fe70d331560b4[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 24 21:11:39 2018 +0800
+
+    滚动图片
+
+[33mcommit fcb08f1417f46f4316bc6e00dfe005810893b4ce[m
+Merge: f7ef8df 1e5aa69
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 24 20:55:07 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit f7ef8dfad02fd8dbb78f5d3642ee87063e1d8edc[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 24 20:54:38 2018 +0800
+
+    update
+
+[33mcommit 1e5aa694568bb3d47b702fb6ff890390fb7f9a77[m
+Merge: d1ae381 9516b6e
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Tue Jul 24 20:20:43 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit d1ae38198ba48be2edb5c2f7157c206441b93fd0[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Tue Jul 24 20:20:36 2018 +0800
+
+    modify
+
+[33mcommit 9516b6ef42e1fb7e6c4aeaae7db67daf75c3d0ba[m
+Merge: 3072a91 b78061d
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 24 20:12:28 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 3072a91f50695e902bc5ca906f8645a8009e36d7[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 24 20:12:06 2018 +0800
+
+    update
+
+[33mcommit b78061db089eb91f1f2d0d4d9dc750f6fcf138c5[m
+Merge: 52ff2f5 3edc815
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 24 19:29:26 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 52ff2f5bcae128c5929c6e1ae348a7c1d49e097f[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 24 19:29:05 2018 +0800
+
+    更新
+
+[33mcommit 3edc815139e4d82b263dc24bba336503d9d10e85[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 24 18:54:59 2018 +0800
+
+    update
+
+[33mcommit b852cd7d7de95e966fa11918b5ed7994d4d0817b[m
+Merge: f0b7271 a651c37
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 24 16:51:13 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit f0b72716b0b0109e4cdd5147e555751687b0aa1f[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 24 16:50:59 2018 +0800
+
+    update
+
+[33mcommit a651c37c42f22fb4a8f25cbf62ddae7f2901966f[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Tue Jul 24 15:30:51 2018 +0800
+
+    modify
+
+[33mcommit b03970a9a1beaa8cfd949d0ff6c4b80b0f339548[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 24 13:02:29 2018 +0800
+
+    更新
+
+[33mcommit e2d69fa4d70ef950d694ffa3034d4c6952538c16[m
+Merge: bd0a00c 8605c1a
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 24 09:24:40 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit bd0a00cbfdf061b995e1d5ba1f790d67ef448e17[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 24 09:24:30 2018 +0800
+
+    更新
+
+[33mcommit 8605c1ad1ffc84a0667b8adc7693952102d773ad[m
+Merge: a79c5a0 970e8a5
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 23 23:47:58 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit a79c5a0bf576590f22bd8ecfd33030b8f7d2908c[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 23 23:47:51 2018 +0800
+
+    update
+
+[33mcommit 970e8a5625394e9a39a95be607e7b56e7242387c[m
+Merge: fad92a7 d700fc3
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 23 21:39:57 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit fad92a76acc91ec0ef985bc46911be058594feed[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 23 21:39:45 2018 +0800
+
+    商品详情展示修改， topic
+
+[33mcommit 0d642a6b4c5d3d31c8f73f65e3f467687869937b[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 23 21:38:45 2018 +0800
+
+    商品详情展示修改， topic
+
+[33mcommit d700fc32ae7843fd8b5c10ea7d3672fb44ad7bd4[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 23 16:49:02 2018 +0800
+
+    update
+
+[33mcommit de5ab4e9f3081c543c2299155b4054d1f36b7024[m
+Merge: e3c9f31 dff85a8
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 23 16:48:28 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit e3c9f31d5f0ff483ce0c64d2d9655b78bbf3978d[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 23 16:48:15 2018 +0800
+
+    update
+
+[33mcommit dff85a8b1672477ae98ed2376f83511256ffd32e[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Mon Jul 23 16:25:22 2018 +0800
+
+    modify
+
+[33mcommit d0740c6ca5d446e27613ad35959e1749378bb713[m
+Merge: 6634813 5eb5ed6
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 23 16:17:17 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 6634813c8a9ef456af874a02528f2b80d20cd8f4[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 23 16:17:00 2018 +0800
+
+    更新数据
+
+[33mcommit 5eb5ed613cf69177d41780923efc7c42840b3077[m
+Merge: a941b79 fbb66f3
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Mon Jul 23 15:19:09 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit a941b79441ff71980e4decf1ea9b5b8cd56f04ac[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Mon Jul 23 15:18:48 2018 +0800
+
+    modify
+
+[33mcommit fbb66f38b6cbe3717d03744813437d022d16607b[m
+Merge: 475ff80 e2ffea6
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 23 13:17:01 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 475ff8096c8fc4159cf9db468eccd1db9b9630bf[m
+Merge: 3d2d30b fb4d82b
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 23 13:16:25 2018 +0800
+
+    update
+
+[33mcommit e2ffea6c34aecf72d612cdb3d7dfb80b54d5af05[m
+Merge: d8ea3f3 fb4d82b
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Mon Jul 23 13:14:59 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit d8ea3f302c4afd1a2774e1a67244461b4fb3a508[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Mon Jul 23 13:14:46 2018 +0800
+
+    modify
+
+[33mcommit 3d2d30bcf1875231eccf65d8e19c69c01aedc0f9[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 23 13:14:35 2018 +0800
+
+    update
+
+[33mcommit fb4d82bbffec90f85b2cb4e5c048aefa2d86e6da[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 23 13:12:17 2018 +0800
+
+    去掉console.log()
+
+[33mcommit 790bbc50f3b73635a33c31a735e28dec9e052bb8[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 23 13:03:40 2018 +0800
+
+    更新
+
+[33mcommit c674cdbe305faaf18c95b19b26ea1bfdedc582a2[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 23 09:34:45 2018 +0800
+
+    更新
+
+[33mcommit abf059825fba470b77745f83487552778cb94838[m
+Merge: 9ce7b04 5e1ec84
+Author: zzz <zzz@zzz.com>
+Date:   Sat Jul 21 18:39:25 2018 +0800
+
+    更新
+
+[33mcommit 9ce7b04a37a859378eb42053a943dfc8ba821284[m
+Author: zzz <zzz@zzz.com>
+Date:   Sat Jul 21 18:37:42 2018 +0800
+
+    更新
+
+[33mcommit 5e1ec84641a95aa00111ec22916cde7bcbcb5263[m
+Merge: d3b10fa a8f3c7d
+Author: sxc <git@alpha.liubao.com>
+Date:   Sat Jul 21 18:34:17 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit d3b10faa8b9748485a0132688c1ab6ee459721c5[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Sat Jul 21 18:34:05 2018 +0800
+
+    update
+
+[33mcommit a8f3c7d4ea039d25ad4706ecbb93936c96351470[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Sat Jul 21 18:19:15 2018 +0800
+
+    modify
+
+[33mcommit 7e579e808fa84a74d99a1604d4c7e09bdf6e6038[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Sat Jul 21 18:10:34 2018 +0800
+
+    modify
+
+[33mcommit 970ac7ea3a95353b69c255365c1fe9362ce1860a[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Sat Jul 21 17:50:56 2018 +0800
+
+    modify
+
+[33mcommit f4fa866dad4ff5233454362254a4216c74bf0305[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Sat Jul 21 16:54:57 2018 +0800
+
+    modify
+
+[33mcommit 3b7b55e0f0f0b347a97f5c0abfa5acf8c3bc71d8[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Sat Jul 21 15:40:11 2018 +0800
+
+    modify
+
+[33mcommit 235523f7a4825117f989d46600e76084b33a2733[m
+Merge: 4636865 f0f738c
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Sat Jul 21 15:35:35 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 4636865efde435ad975755bb59eeb90cb5e63957[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Sat Jul 21 15:35:21 2018 +0800
+
+    modify
+
+[33mcommit f0f738c539117359ef25db99642860234971503e[m
+Merge: 09ee067 60f8699
+Author: zzz <zzz@zzz.com>
+Date:   Sat Jul 21 15:33:40 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 09ee067a3341d23c06bbcbe41bd521d865610d02[m
+Author: zzz <zzz@zzz.com>
+Date:   Sat Jul 21 15:33:12 2018 +0800
+
+    更新数据
+
+[33mcommit 60f86990d2aa9c8df7bf1ad420658f31e70109a5[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Sat Jul 21 15:27:53 2018 +0800
+
+    modify
+
+[33mcommit bca0a24dd92829911da76550de5286a38a5af815[m
+Merge: 5143749 1ab7ecb
+Author: sxc <git@alpha.liubao.com>
+Date:   Sat Jul 21 15:22:32 2018 +0800
+
+    update
+
+[33mcommit 514374916d0b66d75c25c5d365b924af72e28968[m
+Merge: 1f0c2bd e25d186
+Author: sxc <git@alpha.liubao.com>
+Date:   Sat Jul 21 15:07:32 2018 +0800
+
+    update
+
+[33mcommit 1ab7ecb553c8c3b1a622e7d2256588ae50a1605f[m
+Merge: 15059e2 e25d186
+Author: zzz <zzz@zzz.com>
+Date:   Sat Jul 21 15:06:40 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 15059e22a6e17188773901dd13362d87437d7f14[m
+Author: zzz <zzz@zzz.com>
+Date:   Sat Jul 21 15:06:24 2018 +0800
+
+    ucenter页面调整
+
+[33mcommit 1f0c2bd81ae7f9014f5175a21fd77f1737ab9265[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Thu Jul 19 16:11:43 2018 +0800
+
+    update
+
+[33mcommit e25d18664447b3912e3136fd7e2d4de936250321[m
+Merge: 0f7ff23 32de6ef
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Jul 19 16:11:03 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 0f7ff238eb2ed72fe96d8237ac3c91d3ed28a643[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Jul 19 16:10:50 2018 +0800
+
+    modify
+
+[33mcommit 32de6ef5c289833c4d653fa6bbf6092e193b3dca[m
+Merge: 266414d 5009057
+Author: zzz <zzz@zzz.com>
+Date:   Thu Jul 19 15:06:37 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 266414d1efaf4641fa8559d66af3edf92c83fca1[m
+Author: zzz <zzz@zzz.com>
+Date:   Thu Jul 19 15:06:16 2018 +0800
+
+    店铺升级页面提交
+
+[33mcommit 5009057409b8da96a742e74cc8e748b9f810781f[m
+Merge: 19fd5d9 2e18c62
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Jul 19 14:39:09 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 19fd5d99edd703fee03bab64b3d85bfbff6bfddb[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Jul 19 14:38:54 2018 +0800
+
+    modify
+
+[33mcommit 2e18c62c5948f839488df0331348ab208e7fd1c4[m
+Merge: 53c34f3 48a7ea2
+Author: sxc <git@alpha.liubao.com>
+Date:   Thu Jul 19 14:12:41 2018 +0800
+
+    update
+
+[33mcommit 53c34f3acf96fe44b1c02f6c6c4713126d9f08e4[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Thu Jul 19 14:10:06 2018 +0800
+
+    update
+
+[33mcommit 48a7ea26330e07e0bea43a33739209e228bfcd93[m
+Merge: 63c6601 54cd348
+Author: zzz <zzz@zzz.com>
+Date:   Thu Jul 19 13:17:34 2018 +0800
+
+    更新页面
+
+[33mcommit 63c66018253be304784c10fcaa983b5c0e05d5b1[m
+Author: zzz <zzz@zzz.com>
+Date:   Thu Jul 19 13:14:59 2018 +0800
+
+    更新
+
+[33mcommit 54cd3487301a098638d28ce58d11e35d1a3fa07e[m
+Merge: 25a4fee 89a4a8c
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Jul 19 11:28:40 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 25a4fee4aab408721f7b83ef8a86eeb22799f936[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Jul 19 11:28:31 2018 +0800
+
+    modify
+
+[33mcommit 89a4a8cb83f31745536b75aaa85b2922d3ed81f4[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Thu Jul 19 09:27:46 2018 +0800
+
+    update
+
+[33mcommit cded60cccc49c780fd5312b67b25b6a472f00072[m
+Merge: 8813714 33ec49e
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Jul 18 13:15:10 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 8813714a1f869fcc49b0a658eaedf69a63eb1612[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Jul 18 13:14:49 2018 +0800
+
+    ipdate
+
+[33mcommit 33ec49e6d5f63b1f1785af05224bdc00e8e831a5[m
+Merge: 6bad977 1b0f13e
+Author: zzz <zzz@zzz.com>
+Date:   Wed Jul 18 11:12:08 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 6bad977bea2d09ba14efaf99d0bef05355c0f275[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Jul 18 11:10:53 2018 +0800
+
+    更新
+
+[33mcommit 1b0f13e37d3984043d32f409d55012bdfc3b1445[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Jul 18 11:08:46 2018 +0800
+
+    update
+
+[33mcommit 58f096a4884f4beef2c07302086a0c04da6ff165[m
+Merge: 4b23a8d a7d4d74
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Jul 18 10:23:10 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 4b23a8de6437003e85649a88f86432c6c9026508[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Jul 18 10:22:40 2018 +0800
+
+    update
+
+[33mcommit a7d4d74022c9766a6615fa29dd28233e01fcf2c7[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Wed Jul 18 09:55:30 2018 +0800
+
+    delete
+
+[33mcommit 5ad3d74edba49e04ad47e3b88e6cd61aca73fb1b[m
+Merge: 34c2639 c3bc13f
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Wed Jul 18 09:11:22 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 34c26394c6b13a55d2d5d7faad6047610269c179[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Wed Jul 18 09:11:18 2018 +0800
+
+    modify
+
+[33mcommit c3bc13f022aebc62f67513f6b6ef791c3f2ffac8[m
+Author: zzz <zzz@zzz.com>
+Date:   Wed Jul 18 09:06:10 2018 +0800
+
+    更新
+
+[33mcommit 4b6003f664d382d6a80317bd4046716172aa8343[m
+Merge: 1c9dffc 6729dfd
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 17 16:58:04 2018 +0800
+
+    更新
+
+[33mcommit 1c9dffc4a7cf626add0d3b796d6e6eb962b19422[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 17 16:54:39 2018 +0800
+
+    更新数据
+
+[33mcommit 6729dfd977a6267ddf9f65d8439391a69c303d9e[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Tue Jul 17 16:54:20 2018 +0800
+
+    modify
+
+[33mcommit 898dfa343b639ac659e2f0519b8c6636f8bcabf0[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Tue Jul 17 16:52:46 2018 +0800
+
+    delete copy button
+
+[33mcommit 302c5dd347f2177c7e9a6694d1478a903e119734[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Tue Jul 17 16:34:49 2018 +0800
+
+    modify
+
+[33mcommit 22c3036b63bccd1359fb0530ae064a818cda4977[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Tue Jul 17 15:36:30 2018 +0800
+
+    disable
+    PullDownRefresh
+
+[33mcommit 34f24569d63d728914efcbca9372178c31e27e9c[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Tue Jul 17 15:17:41 2018 +0800
+
+    modify
+
+[33mcommit fd3a80d58db9540bd580fc00eb372537488e6305[m
+Merge: 724f81b 184fc5e
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 17 15:03:20 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 724f81bbbce01acca29c88d3974d231be6e95aa8[m
+Author: zzz <zzz@zzz.com>
+Date:   Tue Jul 17 15:02:39 2018 +0800
+
+     个人店铺页面
+
+[33mcommit 184fc5e0284b4facbaa8540acc5c77b673dd6826[m
+Merge: 81b9b41 d6fde6b
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 17 13:51:53 2018 +0800
+
+    update
+
+[33mcommit 81b9b4180b87b02ee262971b6d47fee638384428[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 17 13:50:41 2018 +0800
+
+    update
+
+[33mcommit d6fde6b4975f6c857fdca1afeb65b17199595c74[m
+Author: zzz <zzz@zzz.com>
+Date:   Sun Jul 15 15:41:14 2018 +0800
+
+    更新
+
+[33mcommit 0c334f8766033f6192e3c7a1ea4b6301f0c89c87[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 9 10:12:47 2018 +0800
+
+    更新
+
+[33mcommit 4d96a31c708b810542c9d40310debfe8b443b093[m
+Merge: 529ab72 6b6f4bb
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 9 10:04:22 2018 +0800
+
+    更新
+
+[33mcommit 529ab72234fc3ebf643e340051527802accb3ac2[m
+Author: zzz <zzz@zzz.com>
+Date:   Mon Jul 9 09:59:23 2018 +0800
+
+    更新
+
+[33mcommit 6b6f4bb40619ba8a429a1b1e1272f93158c22740[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jul 6 10:05:19 2018 +0800
+
+    update
+
+[33mcommit 2815177551b60477a8c67058160028ecfa1e2c43[m
+Merge: 33a267f 7d5c352
+Author: sxc <git@alpha.liubao.com>
+Date:   Thu Jul 5 14:33:03 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 33a267f453a1891ee8a69583b6054d3e264d83e4[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Thu Jul 5 14:32:41 2018 +0800
+
+    update
+
+[33mcommit 7d5c352251d02f6e3e037314ac41ac4a8aface73[m
+Merge: 92f6161 4a2cac1
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Thu Jul 5 09:15:16 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 92f616172faed1de153f4f2f4d3ff8c479a7daf1[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Thu Jul 5 09:15:03 2018 +0800
+
+    更新
+
+[33mcommit c4a35f6b27dac9d1923c8da0be3e536a0a7a32f5[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Jul 4 17:19:00 2018 +0800
+
+    update
+
+[33mcommit 4a2cac15c642f74cc5ad888d5246960bbae501da[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Jul 4 17:00:10 2018 +0800
+
+    update
+
+[33mcommit 0a53f87e877b3509b701b6969ff116dd5dee9bf2[m
+Merge: bc1e0bd 3f01800
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Wed Jul 4 14:41:55 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit bc1e0bd74ce369c092071d83def6b71adc6dffd0[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Wed Jul 4 14:41:41 2018 +0800
+
+    更新数据
+
+[33mcommit 3f01800d63f8d412fc9556966aa29773a04c7217[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Jul 4 14:33:22 2018 +0800
+
+    update
+
+[33mcommit 4f0cbc5f7671814d8acf7a9ceaf3dfe220e6a1dd[m
+Merge: 79675b4 662c5c4
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Jul 4 14:29:30 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 79675b46e0933f7baf83599c0315ab306c1730ad[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Jul 4 14:29:15 2018 +0800
+
+    update
+
+[33mcommit 662c5c4079cc86e6551c34c9f5b373888d8c7f14[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Wed Jul 4 09:22:01 2018 +0800
+
+    更新数据
+
+[33mcommit 23080f8097bf4900f9997f0bb4b0bb078e9e2bda[m
+Merge: c5c6265 8ea7c6d
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 3 09:07:06 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 8ea7c6d5e2f155d278d1c6b8ad22d28bcf9c03a0[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Tue Jul 3 09:06:40 2018 +0800
+
+    更新
+
+[33mcommit c5c6265bb9a82b163713a8565a40e020764c8dee[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Tue Jul 3 09:03:16 2018 +0800
+
+    update
+
+[33mcommit 3cc0f07de634d93c2113b7be7256706f1959a5f6[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jul 2 16:04:36 2018 +0800
+
+    update
+
+[33mcommit 40c5d84649b0a5f303a138ba6799e2cdb88bf83f[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Mon Jul 2 14:54:01 2018 +0800
+
+    更新数据
+
+[33mcommit 46781f36a12e11264c4e7ec7de26b65b34c8cd6d[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Sat Jun 30 13:39:29 2018 +0800
+
+    更新
+
+[33mcommit acc0b2ba8093f8033c486d78e1eda1402eaf5ab9[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Sat Jun 30 12:19:53 2018 +0800
+
+    更新
+
+[33mcommit ab5a4f56f99afa11a3ab748e692fdcb162b50fba[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 29 23:27:55 2018 +0800
+
+    modify
+
+[33mcommit 816e8aae164f66f56768fa1ae6b80c5faa22f5a7[m
+Merge: 43efbbe 0e92fda
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 29 23:12:38 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 43efbbe344933f67ca48fd37c1b7591cdf621202[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 29 23:12:23 2018 +0800
+
+    更新
+
+[33mcommit 0e92fda30f5ecc7d5dfadf017dffe366803f0e7c[m
+Merge: cd3d711 8dc7823
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jun 29 23:08:16 2018 +0800
+
+    dauoe
+
+[33mcommit cd3d7118d425668e30323c131b50169e365778b8[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jun 29 23:04:46 2018 +0800
+
+    update
+
+[33mcommit 8dc78238aef8500ca1dae56dba19abbd52fcdb87[m
+Merge: 17b59d8 3390a33
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 29 22:01:12 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 17b59d8a240553eda16bb2bfb9a80dbd17051802[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 29 22:00:16 2018 +0800
+
+    更新数据
+
+[33mcommit 3390a336f9989ca8ce981703776274e7113fc226[m
+Merge: 6839885 1433ecf
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Fri Jun 29 21:52:57 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 6839885e635bc8980ec7318e1b7f33e271e3bdad[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Fri Jun 29 21:52:13 2018 +0800
+
+    modify
+
+[33mcommit 1433ecf975238426aeddaafc2ccf24754c480a9e[m
+Merge: 8268706 9975a87
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 29 19:23:24 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 8268706ab3d12ff92ffe74f11c24595fc8967712[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 29 19:22:31 2018 +0800
+
+    更新
+
+[33mcommit 9975a87703187cac8b6723a08307f99d3bef3553[m
+Merge: f1da497 55f764a
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jun 29 18:08:48 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit f1da49758387af9d65a8210f4764ff2d49a1fa0e[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jun 29 18:08:29 2018 +0800
+
+    update
+
+[33mcommit 55f764aaf6e302c77489df98c2c0a7bed70df25a[m
+Merge: 4247e3f d40428d
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 29 09:46:21 2018 +0800
+
+     更新数据
+
+[33mcommit 4247e3f1f8218970840a42bc152f5773da228481[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Thu Jun 28 13:54:59 2018 +0800
+
+    更新首页
+
+[33mcommit d40428dca6ec2e8096c2b4034b6bba599467cd92[m
+Merge: bfbbfb8 fd0f201
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Jun 27 13:14:02 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit bfbbfb8b210253e2c42b7d4237d4f2c649294b87[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Jun 27 13:13:51 2018 +0800
+
+    upadtae
+
+[33mcommit fd0f2016f3cc9c89772cac50dbf927f29f9aae62[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Wed Jun 27 10:53:52 2018 +0800
+
+    modify
+
+[33mcommit 98c9e5a8341918ef00605b19710d8e99916d3421[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Wed Jun 27 10:38:00 2018 +0800
+
+    更新数据
+
+[33mcommit 4cc6897c281b0f6257305d101fe9917e960eec87[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Wed Jun 27 10:22:51 2018 +0800
+
+    modify
+
+[33mcommit d84256b8f2759a024873271a2f170a1db9462e03[m
+Merge: e26f15c dc3d900
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Jun 27 09:29:52 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit e26f15c7043a62083978eb1661277499587ecb66[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Wed Jun 27 09:29:45 2018 +0800
+
+    update
+
+[33mcommit dc3d90093c737bf12f125840034c512ff8ecb475[m
+Merge: 2c80cfe e62fc49
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Wed Jun 27 09:28:37 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 2c80cfef7d3e143fe362572b8f872d734b2d6d53[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Wed Jun 27 09:28:09 2018 +0800
+
+    退款退货界面
+
+[33mcommit e62fc49dde8829556552db9bd0a88d29069d1c3a[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Mon Jun 25 16:00:24 2018 +0800
+
+    modify
+
+[33mcommit ca870c4f1a8615d690a9ccea6f5eb0ed88e2a662[m
+Merge: d0055c5 4e75946
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Mon Jun 25 15:56:47 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit d0055c55e0183b03930ea3651a19de5d52ec1925[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Mon Jun 25 15:55:52 2018 +0800
+
+    modify
+
+[33mcommit 4e75946c1113f628639e7bd15d5555f7465ac0ba[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Mon Jun 25 13:54:09 2018 +0800
+
+    更新订单部分接口
+
+[33mcommit 4a3638ed1948a37da52574304bae48b4803706e6[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jun 25 09:41:45 2018 +0800
+
+    update
+
+[33mcommit 8cbcb4da06bc188fc9e75d36128c9377c16c1f46[m
+Merge: 278a293 5a91b40
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jun 25 09:40:50 2018 +0800
+
+    update
+
+[33mcommit 278a2934790ae3ef6dfe64b044f8a9c28933771b[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jun 25 09:35:43 2018 +0800
+
+    update
+
+[33mcommit 1bbc169579e011130d0073ae92f6c4d38315f992[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jun 25 09:34:46 2018 +0800
+
+    update
+
+[33mcommit c2de40c0f72db1d562449fd2c150dce261977916[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Mon Jun 25 09:34:07 2018 +0800
+
+    update
+
+[33mcommit 5a91b409af100ec87db1edf2071494e7bc0a23cc[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Mon Jun 25 09:32:00 2018 +0800
+
+     更新数据
+
+[33mcommit 9b86b51bff592ecdddb51bbe96f4b45f8764bde9[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Mon Jun 25 09:30:23 2018 +0800
+
+     更新数据
+
+[33mcommit 7570748ae3c7cb935cee1c22e2b476ff826ad474[m
+Merge: bea2304 273ddab
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 15 17:08:09 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit bea2304b49b28ab4bb332eab21a0b64bb265c1a6[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 15 17:05:46 2018 +0800
+
+    样式更新
+
+[33mcommit 273ddab1b941d06aec1fe9906f907ff053d565a9[m
+Merge: 367716d 434f7fe
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Fri Jun 15 16:32:21 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 367716d359621e30db1355a876b479c9621fa8b6[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Fri Jun 15 16:31:16 2018 +0800
+
+    modify
+
+[33mcommit 2a137e2f208aa4a33193ae8e3d0e878dc0ef6ccd[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Fri Jun 15 16:29:23 2018 +0800
+
+    modify
+
+[33mcommit 434f7feec2f22ed793b5dedc6bd098f04be61efe[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 15 15:51:11 2018 +0800
+
+    api.js更新
+
+[33mcommit caa1fcd839706f832ebc7ce9b24e758cdabde9ff[m
+Merge: af9e374 7b8a30e
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jun 15 14:59:53 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit af9e374c5fd2b18d13fea63d6c7eedb225282538[m
+Merge: 247dffd 5532493
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jun 15 14:59:43 2018 +0800
+
+    update
+
+[33mcommit 7b8a30e0090216cd7c6cb24ba2f64c8a512aa25d[m
+Merge: 1fc98f7 93a27b6
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 15 14:52:07 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 1fc98f76fb4537e39b805f48ae411dfa11f64d2d[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 15 14:51:56 2018 +0800
+
+    预售order
+
+[33mcommit 93a27b604ce88411c6c8be9a77d51f661f465160[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Fri Jun 15 14:51:38 2018 +0800
+
+    modify
+
+[33mcommit 247dffd48abdc9fffcf93f87626bec244e44b939[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jun 15 14:40:08 2018 +0800
+
+    update
+
+[33mcommit 55324932be09edfcc0d4854525a2b8f3bd159c07[m
+Merge: 7250924 2f38020
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Fri Jun 15 14:37:43 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 7250924145fe433a0ac1bc15e69e66c9d6ddb0ea[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Fri Jun 15 14:36:31 2018 +0800
+
+    modify
+
+[33mcommit 2f3802080ed740a1dc2f9cfc72491e1a6207055a[m
+Merge: eeedb85 c3292d7
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 15 14:34:26 2018 +0800
+
+    更新数据
+
+[33mcommit eeedb85966663e70a0fd9c0ea3dccd0b5ad2e1f4[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 15 14:30:42 2018 +0800
+
+    更新数据
+
+[33mcommit c3292d7bcd30a9ad3708c81360aa8af887f3f627[m
+Merge: 57b4f64 5d211a7
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jun 15 14:06:46 2018 +0800
+
+    测试
+
+[33mcommit 57b4f643fb842dd60c00e269ff0d7d6fc59968dc[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jun 15 09:49:01 2018 +0800
+
+    update
+
+[33mcommit 5d211a77b4662286bfa5e6c9b5cd2d144729e5ba[m
+Merge: e0c5b43 38015d7
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Fri Jun 15 09:46:54 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit e0c5b43a276c981c473cb6495e0a1dc6e63a7bdd[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Fri Jun 15 09:39:42 2018 +0800
+
+    modify
+
+[33mcommit 31656fb04b28c034e19f38b190c0848db1930628[m
+Merge: bccecd4 38015d7
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jun 15 09:38:55 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 38015d7de62e2c730ba28465606fcd17a553aa30[m
+Merge: 4cba82b 9eab8a8
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 15 09:36:47 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 4cba82b3f59d63a80b59f107ebdd2bc2cd6b729a[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 15 09:34:41 2018 +0800
+
+    更新数据
+
+[33mcommit bccecd4e430ef5dbe8c305bf2b974dfc01a951fb[m
+Merge: eb61694 9eab8a8
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jun 15 09:31:50 2018 +0800
+
+    update
+
+[33mcommit eb61694471da6e6811f92cd4aa3a096391c3509f[m
+Author: sxc <git@alpha.liubao.com>
+Date:   Fri Jun 15 09:05:13 2018 +0800
+
+    update
+
+[33mcommit 9eab8a8035bf2f80edf6bc22f57c8791aa738915[m
+Merge: 33b8b06 bc5e01b
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 15 08:55:29 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 33b8b069c72243a0d8c209b48e6fa2aa2032806e[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Fri Jun 15 08:54:32 2018 +0800
+
+    h5页面提交
+
+[33mcommit bc5e01b420e62cc3b4ee0d122582ae22e52f8fc9[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Jun 14 13:11:51 2018 +0800
+
+    modify
+
+[33mcommit 04e7baf7ce9d3dcbe1c251f1273ed284c5c88cb0[m
+Merge: a8575e8 04aceb5
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Jun 14 10:58:23 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit 04aceb55b5fb5b27d72f3ec8b95d1111eb2d6f43[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Thu Jun 14 10:57:25 2018 +0800
+
+    modify
+
+[33mcommit a8575e8d1d861ccedc7ae26c1cea547515fdfbfa[m
+Merge: cb3de7c 0f81fdf
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Jun 14 10:55:09 2018 +0800
+
+    Merge branch 'master' of alpha.liubao.com:yt131-html5
+
+[33mcommit cb3de7c1f8925ec4d00372e44c8da907cdb3641a[m
+Author: PANJIAWEI <260910279@qq.com>
+Date:   Thu Jun 14 10:55:03 2018 +0800
+
+    modify
+
+[33mcommit 0f81fdf63a089f728b15b0c31087af6c2b128bbb[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Thu Jun 14 10:51:14 2018 +0800
+
+    h5前端页面修改
+
+[33mcommit cdeac2e6262fb507c8907c6c92ae8d80f86ae965[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Wed Jun 13 08:57:41 2018 +0800
+
+    个人模块我的地址修改，购物车未完结
+
+[33mcommit 9b72b0b37ae69f0b196d1b3b279af1e7a114f70a[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Tue Jun 12 14:55:45 2018 +0800
+
+    首页，分类宽高调整
+
+[33mcommit d1713088bb560bc85d14e5ba39db82754e6c5e4d[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Sat Jun 9 17:05:04 2018 +0800
+
+    验证码登录注册
+
+[33mcommit 13fd252c39ed372c8fd0cd28a8c593f3cb1c8987[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Sat Jun 9 09:53:05 2018 +0800
+
+    utils/libs/pingpp/ 改为 yt131-html5/lib/pingpp
+
+[33mcommit f261a0057fdb19989f02ef746a24a81f5e3f9eec[m
+Author: zhouzhengzheng <2661062195@qq.com>
+Date:   Sat Jun 9 09:28:07 2018 +0800
+
+    h5登录注册

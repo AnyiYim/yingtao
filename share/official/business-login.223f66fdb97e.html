@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>商家登录</title>
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/businessLogin.css">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/4.1.0/css/bootstrap.min.css">
+    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdn.bootcss.com/popper.js/1.12.5/umd/popper.min.js"></script>
+    <script src="https://cdn.bootcss.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+</head>
+<body>
+<!--导航-->
+<div class="BusinessLogin-navBox">
+    <div class="navInner">
+        <span class="navLogo"><a href="index.html"><img src="image/icon/logo.png"></a></span>
+        <span class="navMenu" style="display: none;">
+            <a href="">平台优势</a>
+            <a href="">关于我们</a>
+            <a href="">招商合作</a>
+            <a href="">帮助中心</a>
+            <a href="business-login.html"><span class="BusinessLogin">商家登录</span></a>
+        </span>
+    </div>
+</div>
+<!--表单-->
+<div class="contentBg">
+    <div class="contentInner">
+        <div class="FormBg">
+            <h3>商家登录中心</h3>
+            <form action="/accounts/login/" method="post" autocomplete="on">
+                <span class="form">
+                    <span class="formText">用户名</span>
+                    <span><input type="text" name="login-username" placeholder="请输入登录账号"></span>
+                </span>
+                <span class="form">
+                    <span class="formText">密码</span>
+                    <span><input type="password" name="login-password" placeholder="请输入登录密码"></span>
+                </span>
+                <button name="login_submit" value="Log In" type="submit" class="loginButton" data-loading-text="登录中...">立即登录</button>
+            </form>
+        </div>
+    </div>
+
+</div>
+
+<!--底部-->
+<div class="footer BusinessLogin-footer">
+    <!--<i class="businessLogin-line"></i>-->
+    <div class="footermenu"><a href="">关于我们</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">快递查询</a></div>
+    <p class="copyright">版权所有 樱桃乐享网上商城</p>
+    <p class="copyright">Copyright © 2017-2017 yt131.com Inc , All Rights Reserved. 粤ICP备17089920号</p>
+</div>
+</body>

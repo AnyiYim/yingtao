@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <title>樱桃乐享</title>
+  <link href="/static/oscar/favicon.ico" rel="Shortcut Icon">
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/weweb.min.css">
+  <meta name="viewport" content="width=device-width, height=device-height,user-scalable=no, initial-scale=1.0" />
+  <!-- <script src="/script/recorder.js"></script> -->
+</head>
+<body>
+  <div class="head">
+    <div class="jshook-ws-head" style="display: none">
+    <div class="head-back jshook-ws-head-back">
+      <i class="head-back-icon"></i>
+    <span class="jshook-ws-head-back-text"></span>
+  </div>
+  <div class="head-home jshook-ws-head-home">
+  <i class="head-home-icon"></i>
+  </div>
+  <h3 class="head-title jshook-ws-head-title">
+    <i class="head-title-loading"></i>
+    <span></span>
+  </h3>
+  <div class="head-option jshook-ws-head-option">
+
+  </div>
+  </div>
+  </div>
+  <div class="scrollable">
+  </div>
+  <div class="tabbar-root ">
+    <div class="tabbar jshook-ws-tabbar" style="display:none;background-color: #fafafa; border-color: white; height: 56px;">
+      <div class="tabbar-item jshook-ws-tabbar-item" key="0">
+        <img class="tabbar-icon" src="static/images/ic_menu_choice_nor.png" icon="static/images/ic_menu_choice_nor.png" select-icon="static/images/ic_menu_choice_pressed.png" alt="" />
+        <p class="tabbar-label" style="color:#666">
+        首页
+        </p>
+      </div>
+      <div class="tabbar-item jshook-ws-tabbar-item" key="1">
+        <img class="tabbar-icon" src="static/images/ic_menu_topic_nor.png" icon="static/images/ic_menu_topic_nor.png" select-icon="static/images/ic_menu_topic_pressed.png" alt="" />
+        <p class="tabbar-label" style="color:#666">
+        发现
+        </p>
+      </div>
+      <div class="tabbar-item jshook-ws-tabbar-item" key="2">
+        <img class="tabbar-icon" src="static/images/ic_menu_sort_nor.png" icon="static/images/ic_menu_sort_nor.png" select-icon="static/images/ic_menu_sort_pressed.png" alt="" />
+        <p class="tabbar-label" style="color:#666">
+        分类
+        </p>
+      </div>
+      <div class="tabbar-item jshook-ws-tabbar-item" key="3">
+        <img class="tabbar-icon" src="static/images/ic_menu_shoping_nor.png" icon="static/images/ic_menu_shoping_nor.png" select-icon="static/images/ic_menu_shoping_pressed.png" alt="" />
+        <p class="tabbar-label" style="color:#666">
+        购物车
+        </p>
+      </div>
+      <div class="tabbar-item jshook-ws-tabbar-item" key="4">
+        <img class="tabbar-icon" src="static/images/ic_menu_me_nor.png" icon="static/images/ic_menu_me_nor.png" select-icon="static/images/ic_menu_me_pressed.png" alt="" />
+        <p class="tabbar-label" style="color:#666">
+        我的
+        </p>
+      </div>
+    </div>
+  </div>
+  <script>
+    var __wxConfig__ = {"debug":false,"babel":false,"appname":"debug","window":{"backgroundTextStyle":"dark","navigationBarBackgroundColor":"#fff","navigationBarTitleText":"","navigationBarTextStyle":"black","enablePullDownRefresh":false,"pages":{"pages/index/index":{},"pages/bestsale/bestsale":{},"pages/promotions/promotions":{},"pages/auth/login/login":{},"pages/auth/register/register":{},"pages/auth/headImg/headImg":{},"pages/auth/reset/reset":{},"pages/auth/scanQrcode/index/scanQrcode":{},"pages/auth/reset/resetIndex/resetIndex":{},"pages/auth/scanQrcode/result/result":{},"pages/cart/cart":{"backgroundColor":"#f4f4f4"},"pages/category/category":{},"pages/comment/comment":{},"pages/catalog/catalog":{},"pages/commentPost/commentPost":{"navigationBarTitleText":"填写留言"},"pages/goodsDetails/goodsDetails":{},"pages/genStore/genStore":{},"pages/goods/goods":{},"pages/pay/pay":{"navigationBarTitleText":"支付订单"},"pages/preSale/preSale":{},"pages/payResult/payResult":{"navigationBarTitleText":"付款结果","navigationBarBackgroundColor":"#fafafa"},"pages/search/search":{},"pages/shopping/checkout/checkout":{},"pages/shopping/address/address":{},"pages/shopping/addressAdd/addressAdd":{},"pages/topicDetail/topicDetail":{},"pages/topic/topic":{},"pages/topicComment/topicComment":{},"pages/ucenter/index/index":{"backgroundColor":"#f4f4f4"},"pages/ucenter/account/setSex/setSex":{},"pages/ucenter/account/account":{},"pages/ucenter/account/setPassword/setPassword":{},"pages/ucenter/account/setMobile/setMobile":{},"pages/ucenter/account/setNickName/setNickName":{},"pages/ucenter/account/socialAuth/socialAuth":{},"pages/ucenter/addGenUser/addGenUser":{},"pages/ucenter/account/userManage/userManage":{},"pages/ucenter/addGenUser/inviterList/inviterList":{},"pages/ucenter/addGenUser/shareQrcode/shareQrcode":{},"pages/ucenter/address/address":{},"pages/ucenter/addressAdd/addressAdd":{},"pages/ucenter/collect/collect":{},"pages/ucenter/company/my_company/my_company":{},"pages/ucenter/coupon/coupon":{},"pages/ucenter/company/dissolve_company/dissolve_company":{},"pages/ucenter/express/express":{"navigationBarTitleText":"物流详情"},"pages/ucenter/feedback/feedback":{},"pages/ucenter/footprint/footprint":{},"pages/ucenter/order/order":{},"pages/ucenter/logistics/logistics":{"backgroundColor":"#f4f4f4"},"pages/ucenter/orderDetail/orderDetail":{},"pages/ucenter/preOrder/preOrder":{},"pages/ucenter/refund/refund":{},"pages/ucenter/storeproduct/storeproduct":{},"pages/ucenter/storeUpgrade/storeUpgrade":{},"pages/ucenter/userIdentification/userIdentification":{},"pages/ucenter/userinfo/userinfo":{},"pages/ucenter/vipproduct/vipproduct":{},"pages/ucenter/wallet/wallet":{},"pages/ucenter/wallet/balanceorders/balanceorders":{},"pages/ucenter/wallet/purseDetail/purseDetail":{},"pages/ucenter/wallet/recharge/recharge":{},"pages/ucenter/wallet/withdraw/withdraw":{},"pages/ucenter/storeUpgrade/upgradeOrder/upgradeOrder":{},"pages/ucenter/wallet/balanceSend/balanceSend":{},"pages/ucenter/wallet/zhuanZhang/zhuanZhang":{}}},"userInfo":{"headUrl":"","city":"","gender":1,"nickName":"","province":""},"pages":["pages/index/index","pages/promotions/promotions","pages/bestsale/bestsale","pages/auth/login/login","pages/auth/register/register","pages/auth/reset/reset","pages/auth/headImg/headImg","pages/auth/scanQrcode/index/scanQrcode","pages/auth/scanQrcode/result/result","pages/auth/reset/resetIndex/resetIndex","pages/cart/cart","pages/catalog/catalog","pages/category/category","pages/comment/comment","pages/commentPost/commentPost","pages/genStore/genStore","pages/goods/goods","pages/goodsDetails/goodsDetails","pages/pay/pay","pages/payResult/payResult","pages/preSale/preSale","pages/search/search","pages/shopping/checkout/checkout","pages/shopping/address/address","pages/shopping/addressAdd/addressAdd","pages/topic/topic","pages/topicDetail/topicDetail","pages/topicComment/topicComment","pages/ucenter/index/index","pages/ucenter/account/account","pages/ucenter/account/setSex/setSex","pages/ucenter/account/setMobile/setMobile","pages/ucenter/account/setPassword/setPassword","pages/ucenter/account/setNickName/setNickName","pages/ucenter/account/socialAuth/socialAuth","pages/ucenter/account/userManage/userManage","pages/ucenter/addGenUser/addGenUser","pages/ucenter/addGenUser/inviterList/inviterList","pages/ucenter/addGenUser/shareQrcode/shareQrcode","pages/ucenter/address/address","pages/ucenter/addressAdd/addressAdd","pages/ucenter/collect/collect","pages/ucenter/company/my_company/my_company","pages/ucenter/company/dissolve_company/dissolve_company","pages/ucenter/coupon/coupon","pages/ucenter/express/express","pages/ucenter/feedback/feedback","pages/ucenter/footprint/footprint","pages/ucenter/logistics/logistics","pages/ucenter/order/order","pages/ucenter/orderDetail/orderDetail","pages/ucenter/preOrder/preOrder","pages/ucenter/refund/refund","pages/ucenter/storeproduct/storeproduct","pages/ucenter/storeUpgrade/storeUpgrade","pages/ucenter/userIdentification/userIdentification","pages/ucenter/userinfo/userinfo","pages/ucenter/vipproduct/vipproduct","pages/ucenter/wallet/wallet","pages/ucenter/wallet/balanceorders/balanceorders","pages/ucenter/wallet/purseDetail/purseDetail","pages/ucenter/wallet/recharge/recharge","pages/ucenter/wallet/withdraw/withdraw","pages/ucenter/storeUpgrade/upgradeOrder/upgradeOrder","pages/ucenter/wallet/balanceSend/balanceSend","pages/ucenter/wallet/zhuanZhang/zhuanZhang"],"tabBar":{"backgroundColor":"#fafafa","borderStyle":"white","selectedColor":"#b4282d","color":"#666","list":[{"pagePath":"pages/index/index","iconPath":"static/images/ic_menu_choice_nor.png","selectedIconPath":"static/images/ic_menu_choice_pressed.png","text":"首页"},{"pagePath":"pages/topic/topic","iconPath":"static/images/ic_menu_topic_nor.png","selectedIconPath":"static/images/ic_menu_topic_pressed.png","text":"发现"},{"pagePath":"pages/catalog/catalog","iconPath":"static/images/ic_menu_sort_nor.png","selectedIconPath":"static/images/ic_menu_sort_pressed.png","text":"分类"},{"pagePath":"pages/cart/cart","iconPath":"static/images/ic_menu_shoping_nor.png","selectedIconPath":"static/images/ic_menu_shoping_pressed.png","text":"购物车"},{"pagePath":"pages/ucenter/index/index","iconPath":"static/images/ic_menu_me_nor.png","selectedIconPath":"static/images/ic_menu_me_pressed.png","text":"我的"}]},"networkTimeout":{"request":10000,"downloadFile":10000},"weweb":{"requestType":"ajax"},"root":"pages/index/index","appid":"touristappid","isTourist":true}
+    var __root__ = 'pages/index/index'
+  </script>
+  <script>
+    var __wxRoute
+    var __wxRouteBegin
+    global = {}
+  </script>
+
+  <script src="script/weweb.js?v=1.1.2" type="text/javascript"></script>
+  <script src="script/app-service.js?v=1.1.2"></script>
+  <script>
+    ServiceJSBridge.doCommand({
+      sdkName: 'onLaunch'
+    })
+    //防止页面后退
+    history.pushState(null, null, document.URL);
+    window.addEventListener('popstate', function () {
+        history.pushState(null, null, document.URL);
+    });
+    __wxConfig__.start_pay = function(url){ location.href=url; }
+    __wxConfig__.reLaunch = function(){ location.reload(); }
+    __wxConfig__.document = document;
+    __wxConfig__.h5_window = window;
+  </script>
+</body>
+</html>

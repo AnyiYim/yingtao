@@ -1,0 +1,208 @@
+html, body{}
+
+*{margin:0 ;padding:0 ;}
+.am-table td {
+}
+
+.am-tabs-default .am-tabs-nav a {
+    line-height:36px;
+}
+
+.am-tabs-default .am-tabs-nav {
+    line-height: 0;
+}
+
+.admin-main {
+    padding-top:0;
+    padding-bottom: 131px;
+    background-color: #ccc;
+}
+
+.all-time-name{
+    margin:0;
+}
+
+.admin-content {
+    margin-top:136px;
+    /*padding-bottom:100px;*/
+
+}
+
+.page.fl{
+    margin:0 auto;
+    text-align: center;
+}
+.select-check-time button{
+    font-size: small;
+}
+
+.form-table{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+.handle-table-div{
+    overflow: auto;
+}
+
+.click-color{
+    margin-top: 10px;
+    background-color: #eeeeee;
+    line-height: 36px;
+
+}
+
+.click-color  ul li a{
+    color: #393838;
+    font-weight: 400;
+}
+.click-color .li-active a{
+
+    background-color: #0e90d2;
+    color: #fff;
+
+}
+
+#admin-offcanvas{
+    display: none;
+}
+.table-select-li ul{
+    text-align:left;
+    list-style-type:none;
+}
+.select-table-show{
+    padding-right:8px;
+    padding-left: 8px;
+}
+
+.flax-header-info{
+    position: fixed;
+    top: 50px;
+    left: 0;
+    right: 0;
+    z-index: 1500;
+    background: #fafafa;
+}
+
+.data-show-table{
+    position: relative;
+}
+
+
+.child-table-render{
+    border:1px solid #0E90D2;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.child-table-render, .child-table-render tr th, .child-table-render tr td {
+    border:1px solid #0E90D2;
+}
+
+td{
+    /*min-width:145px;
+    max-width:160px*/
+    text-align: center;
+}
+th{
+    /*min-width:145px;*/
+
+    text-align: center;
+}
+.div-bonus{
+    width:850px;
+    overflow-x: scroll;
+}
+
+.chiose_file{
+    opacity: 0.8;
+    text-align: center;
+    background: #ffffff;
+}
+.chiose-file-rename{
+    width:inherit;
+}
+.file-uploads-show li{
+    list-style-type: none;
+}
+.formfile li{
+    float:left;
+}
+.upload-li-btn {
+    float:left;
+}
+
+.table-name-title{
+    padding-left:20px;
+}
+
+
+.flxed-table-element th{
+    padding-left:0.7rem;
+    padding-right:0.7rem;
+}
+.page-num-show{
+    padding-left:19px;
+}
+.page-num-show p{
+    padding:.7rem;
+}
+
+.init-btn{
+    opacity: 0.8;
+}
+
+.uploading{
+    display: none;
+    height:100px;
+    text-align: center;
+}
+.uploading-pic{
+    width:80px;
+}
+.uploading-child{
+    margin-top: 20px;
+
+}
+
+.thead-fixd{
+    background-color: #eee;
+    display: inline-block;
+    position: fixed;
+    top: 136px;
+    margin-top: 1px solid #dddddd;
+    margin-left:3px;
+    border-top:1px solid #dddddd;
+    border-bottom:1px solid #dddddd;
+}
+
+.thead-fixd thead tr th{
+    border-right: 1px solid #dddddd;
+    font-weight: 400;
+}
+.table-main{
+    padding: 0 1px 0 2px;
+}
+
+.admin-content{
+    overflow: hidden;
+}
+/*时间插件*/
+.date-xls-bt01{
+    margin: 5px 0 0 17px;
+    line-height: 15px;
+}
+.date-xls-bt02{
+    margin: 5px 0 0 17px;
+    line-height: 15px;
+}
+#my-end-2{
+    margin-bottom: 5px;
+}
+.one-select{
+    margin: 0 0 0 17px;
+}
+.select-month{
+    margin-bottom: 5px;
+}

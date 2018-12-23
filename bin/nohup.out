@@ -1,0 +1,624 @@
+/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/views/generic/list.py:100: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'yt131.virtual_company.models.Company'> QuerySet.
+  allow_empty_first_page=allow_empty_first_page, **kwargs)
+[08/Jun/2018 16:45:13] "GET /virtual_company/company/ HTTP/1.1" 200 26499
+[08/Jun/2018 16:45:14] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:45:23] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+Error: That port is already in use.
+短信发送功能 -> 关闭
+[08/Jun/2018 16:45:46] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:45:46] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:45:47] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:45:47] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:45:48] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:45:48] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:45:48] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:45:48] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:45:48] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:45:48] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:45:48] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:45:48] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:45:54] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:46:21] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:46:21] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:46:22] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:46:22] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:46:22] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:46:22] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:46:22] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:46:22] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:46:22] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:46:22] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:46:23] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:46:23] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:46:23] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:46:23] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/views/generic/list.py:100: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'yt131.virtual_company.models.Company'> QuerySet.
+  allow_empty_first_page=allow_empty_first_page, **kwargs)
+[08/Jun/2018 16:48:07] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:48:07] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:48:08] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:48:08] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:48:08] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:48:08] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:48:08] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:48:08] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:48:08] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+[08/Jun/2018 16:48:09] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:48:09] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+Internal Server Error: /virtual_company/company/
+Traceback (most recent call last):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/yt131/virtual_company/views.py", line 190, in get
+    assert request.user.is_staff
+AssertionError
+[08/Jun/2018 16:48:29] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 500 113347
+Not Found: /favicon.ico
+[08/Jun/2018 16:48:29] "GET /favicon.ico HTTP/1.1" 404 14362
+[08/Jun/2018 16:48:53] "GET / HTTP/1.1" 200 7725
+[08/Jun/2018 16:48:53] "GET /static/oscar/js/bootstrap-datetimepicker/bootstrap-datetimepicker.css HTTP/1.1" 200 12351
+[08/Jun/2018 16:48:53] "GET /static/oscar/css/datetimepicker.css HTTP/1.1" 200 352
+[08/Jun/2018 16:48:53] "GET /static/oscar/js/oscar/ui.js HTTP/1.1" 200 13964
+[08/Jun/2018 16:48:53] "GET /static/oscar/js/bootstrap3/bootstrap.min.js HTTP/1.1" 200 31819
+[08/Jun/2018 16:48:53] "GET /static/oscar/js/bootstrap-datetimepicker/bootstrap-datetimepicker.js HTTP/1.1" 200 55331
+[08/Jun/2018 16:48:53] "GET /static/oscar/js/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.all.js HTTP/1.1" 200 31995
+[08/Jun/2018 16:48:53] "GET /static/oscar/css/styles.css HTTP/1.1" 200 192135
+[08/Jun/2018 16:48:53] "GET /static/oscar/js/jquery/jquery-1.9.1.min.js HTTP/1.1" 200 92629
+[08/Jun/2018 16:48:54] "GET /catalogue/ HTTP/1.1" 200 14587
+[08/Jun/2018 16:48:54] "GET /static/oscar/css/slide.css HTTP/1.1" 200 1302
+[08/Jun/2018 16:48:54] "GET /static/oscar/img/slide/1.jpg HTTP/1.1" 200 106136
+[08/Jun/2018 16:48:54] "GET /static/oscar/js/oscar/slide.js HTTP/1.1" 200 4198
+[08/Jun/2018 16:48:54] "GET /media/cache/cb/09/cb094e335c5fb3110dabdf14eeb434fa.jpg HTTP/1.1" 200 6976
+[08/Jun/2018 16:48:54] "GET /static/oscar/img/slide/4.jpg HTTP/1.1" 200 104525
+[08/Jun/2018 16:48:54] "GET /static/oscar/img/slide/3.jpg HTTP/1.1" 200 87134
+[08/Jun/2018 16:48:54] "GET /static/oscar/img/slide/2.jpg HTTP/1.1" 200 81307
+[08/Jun/2018 16:48:54] "GET /static/oscar/img/slide/5.jpg HTTP/1.1" 200 131299
+[08/Jun/2018 16:48:54] "GET /static/oscar/img/slide/arrow-left.png HTTP/1.1" 200 172
+[08/Jun/2018 16:48:54] "GET /static/oscar/img/slide/arrow-right.png HTTP/1.1" 200 172
+[08/Jun/2018 16:48:54] "GET /static/oscar/favicon.ico HTTP/1.1" 200 1150
+[08/Jun/2018 16:48:56] "GET /accounts/login/ HTTP/1.1" 200 12928
+[08/Jun/2018 16:49:08] "POST /accounts/login/ HTTP/1.1" 200 13302
+[08/Jun/2018 16:49:08] "GET /static/oscar/fonts/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 200 43572
+[08/Jun/2018 16:49:26] "POST /accounts/login/ HTTP/1.1" 200 13302
+[08/Jun/2018 16:49:42] "POST /accounts/login/ HTTP/1.1" 200 13302
+[08/Jun/2018 16:49:47] "POST /accounts/login/ HTTP/1.1" 200 13302
+[08/Jun/2018 16:50:24] "POST /accounts/login/ HTTP/1.1" 200 13302
+[08/Jun/2018 16:50:32] "POST /accounts/login/ HTTP/1.1" 302 0
+[08/Jun/2018 16:50:32] "GET /dashboard/ HTTP/1.1" 200 27666
+[08/Jun/2018 16:50:32] "GET /static/oscar/css/dashboard.css HTTP/1.1" 200 172693
+[08/Jun/2018 16:50:32] "GET /static/oscar/js/select2/select2.css HTTP/1.1" 200 19457
+[08/Jun/2018 16:50:32] "GET /static/oscar/css/select2-bootstrap.css HTTP/1.1" 200 17004
+[08/Jun/2018 16:50:32] "GET /static/oscar/js/mousewheel/jquery.mousewheel.min.js HTTP/1.1" 200 1392
+[08/Jun/2018 16:50:32] "GET /static/oscar/js/inputmask/jquery.inputmask.bundle.min.js HTTP/1.1" 200 50303
+[08/Jun/2018 16:50:32] "GET /static/oscar/js/select2/select2.js HTTP/1.1" 200 148536
+[08/Jun/2018 16:50:32] "GET /static/oscar/js/jquery-sortable/jquery-sortable-min.js HTTP/1.1" 200 9680
+[08/Jun/2018 16:50:32] "GET /static/oscar/js/oscar/dashboard.js HTTP/1.1" 200 16218
+[08/Jun/2018 16:50:32] "GET /static/oscar/js/tinymce/tinymce.min.js HTTP/1.1" 200 341407
+[08/Jun/2018 16:50:32] "GET /static/oscar/js/tinymce/jquery.tinymce.min.js HTTP/1.1" 200 3561
+[08/Jun/2018 16:50:32] "GET /static/oscar/img/ui/dashboard/bg_subtle_dots.png HTTP/1.1" 200 955
+[08/Jun/2018 16:50:32] "GET /static/oscar/img/ui/dashboard/logo_oscar.png HTTP/1.1" 200 5469
+[08/Jun/2018 16:50:37] "GET /accounts/ HTTP/1.1" 302 0
+[08/Jun/2018 16:50:37] "GET /accounts/userinfo/ HTTP/1.1" 200 9106
+[08/Jun/2018 16:50:38] "GET /dashboard/ HTTP/1.1" 200 27202
+[08/Jun/2018 16:50:39] "GET /virtual_company/company/ HTTP/1.1" 200 26499
+[08/Jun/2018 16:50:45] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2%09 HTTP/1.1" 200 22183
+[08/Jun/2018 16:50:47] "GET /dashboard/ HTTP/1.1" 200 27202
+[08/Jun/2018 16:50:49] "GET /virtual_company/company/ HTTP/1.1" 200 26499
+[08/Jun/2018 16:50:52] "GET /virtual_company/company/?company_name=%E9%82%B5%E6%B0%8F%E9%9B%86%E5%9B%A2 HTTP/1.1" 200 25115
+短信发送功能 -> 关闭
+Performing system checks...
+
+20
+System check identified no issues (0 silenced).
+June 08, 2018 - 16:48:05
+Django version 1.11.11, using settings 'yt131.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+短信发送功能 -> 关闭
+Performing system checks...
+
+20
+System check identified no issues (0 silenced).
+June 08, 2018 - 17:01:09
+Django version 1.11.11, using settings 'yt131.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+短信发送功能 -> 关闭
+Performing system checks...
+
+20
+System check identified no issues (0 silenced).
+June 08, 2018 - 17:01:14
+Django version 1.11.11, using settings 'yt131.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+短信发送功能 -> 关闭
+Performing system checks...
+
+20
+System check identified no issues (0 silenced).
+June 08, 2018 - 17:01:53
+Django version 1.11.11, using settings 'yt131.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+短信发送功能 -> 关闭
+Performing system checks...
+
+20
+System check identified no issues (0 silenced).
+June 08, 2018 - 17:01:58
+Django version 1.11.11, using settings 'yt131.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fa0fd3ecb18>
+Traceback (most recent call last):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/autoreload.py", line 251, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/apps/registry.py", line 85, in populate
+    app_config = AppConfig.create(entry)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/apps/config.py", line 120, in create
+    mod = import_module(mod_path)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named dashboard.users.config
+Unhandled exception in thread started by <function wrapper at 0x7fc5939b4b90>
+短信发送功能 -> 关闭
+Performing system checks...
+
+20
+Traceback (most recent call last):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 124, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/yt131/urls.py", line 21, in <module>
+    import oscar.app
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/app.py", line 13, in <module>
+    class Shop(Application):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/app.py", line 22, in Shop
+    dashboard_app = get_class('dashboard.app', 'application')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/app.py", line 10, in <module>
+    class DashboardApplication(BaseDashboardApplication):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/app.py", line 19, in DashboardApplication
+    users_app = get_class('dashboard.users.app', 'application')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/app.py", line 7, in <module>
+    class UserManagementApplication(DashboardApplication):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/app.py", line 11, in UserManagementApplication
+    index_view = get_class('dashboard.users.views', 'IndexView')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/views.py", line 22, in <module>
+    UserTable = get_class('dashboard.users.tables', 'UserTable')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 128, in get_classes
+    local_module = _import_module(local_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/yt131/dashboard/users/tables.py", line 5, in <module>
+    class UserTable(DashboardTable):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/yt131/dashboard/users/tables.py", line 6, in UserTable
+    check = TemplateColumn(
+NameError: name 'TemplateColumn' is not defined
+Unhandled exception in thread started by <function wrapper at 0x7f96e8b73b90>
+短信发送功能 -> 关闭
+Performing system checks...
+
+20
+Traceback (most recent call last):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 124, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/yt131/urls.py", line 21, in <module>
+    import oscar.app
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/app.py", line 13, in <module>
+    class Shop(Application):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/app.py", line 22, in Shop
+    dashboard_app = get_class('dashboard.app', 'application')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/app.py", line 10, in <module>
+    class DashboardApplication(BaseDashboardApplication):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/app.py", line 19, in DashboardApplication
+    users_app = get_class('dashboard.users.app', 'application')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/app.py", line 7, in <module>
+    class UserManagementApplication(DashboardApplication):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/app.py", line 11, in UserManagementApplication
+    index_view = get_class('dashboard.users.views', 'IndexView')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/views.py", line 22, in <module>
+    UserTable = get_class('dashboard.users.tables', 'UserTable')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 128, in get_classes
+    local_module = _import_module(local_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/yt131/dashboard/users/tables.py", line 5, in <module>
+    class UserTable(UserTable):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/yt131/dashboard/users/tables.py", line 13, in UserTable
+    mobile = Column(accessor='mobile')
+NameError: name 'Column' is not defined
+Unhandled exception in thread started by <function wrapper at 0x7fa313723b90>
+短信发送功能 -> 关闭
+Performing system checks...
+
+20
+Traceback (most recent call last):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 124, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/yt131/urls.py", line 21, in <module>
+    import oscar.app
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/app.py", line 13, in <module>
+    class Shop(Application):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/app.py", line 22, in Shop
+    dashboard_app = get_class('dashboard.app', 'application')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/app.py", line 10, in <module>
+    class DashboardApplication(BaseDashboardApplication):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/app.py", line 19, in DashboardApplication
+    users_app = get_class('dashboard.users.app', 'application')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/app.py", line 7, in <module>
+    class UserManagementApplication(DashboardApplication):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/app.py", line 11, in UserManagementApplication
+    index_view = get_class('dashboard.users.views', 'IndexView')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/views.py", line 22, in <module>
+    UserTable = get_class('dashboard.users.tables', 'UserTable')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 128, in get_classes
+    local_module = _import_module(local_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/yt131/dashboard/users/tables.py", line 2
+    from django_tables2 import A, Column,
+SyntaxError: trailing comma not allowed without surrounding parentheses
+Unhandled exception in thread started by <function wrapper at 0x7f2025d02b90>
+短信发送功能 -> 关闭
+Performing system checks...
+
+20
+Traceback (most recent call last):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 124, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/yt131/urls.py", line 21, in <module>
+    import oscar.app
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/app.py", line 13, in <module>
+    class Shop(Application):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/app.py", line 22, in Shop
+    dashboard_app = get_class('dashboard.app', 'application')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/app.py", line 10, in <module>
+    class DashboardApplication(BaseDashboardApplication):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/app.py", line 19, in DashboardApplication
+    users_app = get_class('dashboard.users.app', 'application')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/app.py", line 7, in <module>
+    class UserManagementApplication(DashboardApplication):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/app.py", line 11, in UserManagementApplication
+    index_view = get_class('dashboard.users.views', 'IndexView')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/views.py", line 22, in <module>
+    UserTable = get_class('dashboard.users.tables', 'UserTable')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 128, in get_classes
+    local_module = _import_module(local_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/yt131/dashboard/users/tables.py", line 2
+    from django_tables2 import Column,
+SyntaxError: trailing comma not allowed without surrounding parentheses
+短信发送功能 -> 关闭
+Performing system checks...
+
+20
+System check identified no issues (0 silenced).
+June 08, 2018 - 17:12:14
+Django version 1.11.11, using settings 'yt131.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7f1c1d67fb90>
+短信发送功能 -> 关闭
+Performing system checks...
+
+20
+Traceback (most recent call last):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 124, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/yt131/urls.py", line 21, in <module>
+    import oscar.app
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/app.py", line 13, in <module>
+    class Shop(Application):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/app.py", line 22, in Shop
+    dashboard_app = get_class('dashboard.app', 'application')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/app.py", line 10, in <module>
+    class DashboardApplication(BaseDashboardApplication):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/app.py", line 19, in DashboardApplication
+    users_app = get_class('dashboard.users.app', 'application')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/app.py", line 7, in <module>
+    class UserManagementApplication(DashboardApplication):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/app.py", line 11, in UserManagementApplication
+    index_view = get_class('dashboard.users.views', 'IndexView')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 114, in get_classes
+    oscar_module = _import_module(oscar_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/apps/dashboard/users/views.py", line 22, in <module>
+    UserTable = get_class('dashboard.users.tables', 'UserTable')
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 57, in get_class
+    return get_classes(module_label, [classname], module_prefix)[0]
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 128, in get_classes
+    local_module = _import_module(local_module_label, classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/oscar/core/loading.py", line 169, in _import_module
+    return __import__(module_label, fromlist=classnames)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/yt131/dashboard/users/tables.py", line 6, in <module>
+    class UserTable(DashboardTable):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/yt131/dashboard/users/tables.py", line 7, in UserTable
+    check = TemplateColumn(
+NameError: name 'TemplateColumn' is not defined
+短信发送功能 -> 关闭
+Performing system checks...
+
+20
+System check identified no issues (0 silenced).
+June 08, 2018 - 17:12:53
+Django version 1.11.11, using settings 'yt131.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fae5a3b6cf8>
+Traceback (most recent call last):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/autoreload.py", line 251, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/apps/registry.py", line 85, in populate
+    app_config = AppConfig.create(entry)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/apps/config.py", line 94, in create
+    module = import_module(entry)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named werkzeug_debugger_runserver
+Unhandled exception in thread started by <function wrapper at 0x7f10404c6cf8>
+Traceback (most recent call last):
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/autoreload.py", line 251, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/apps/registry.py", line 85, in populate
+    app_config = AppConfig.create(entry)
+  File "/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/apps/config.py", line 94, in create
+    module = import_module(entry)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named werkzeug_debugger_runserver
+[08/Jun/2018 17:29:57] "GET /virtual_company/company/1/update/ HTTP/1.1" 200 25451
+/home/shaojiajun314/Desktop/yt131/lib/python2.7/site-packages/django/views/generic/list.py:100: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'yt131.virtual_company.models.CompanyMember'> QuerySet.
+  allow_empty_first_page=allow_empty_first_page, **kwargs)
+[08/Jun/2018 17:30:31] "GET /virtual_company/company-member-list/1/ HTTP/1.1" 200 28236
+[08/Jun/2018 17:30:32] "GET /virtual_company/member/1/1/update/?context_data_action=context_data_update HTTP/1.1" 200 22505
+[08/Jun/2018 17:31:10] "GET /zc-profit-settings/argument-settings/last/ HTTP/1.1" 200 21170
